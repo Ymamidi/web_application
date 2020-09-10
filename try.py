@@ -13,4 +13,4 @@ st.write(pd.DataFrame({
 
 st.write(pd.read_csv (r'C:\Personal Projects\Development\Web_app\web_application\genedata-transposed.csv'))
 
-
+ 

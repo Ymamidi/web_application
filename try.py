@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+from datetime import datetime
 
 st.title('My first app')
 
@@ -45,7 +46,22 @@ if type_SELECTED == []:
     pass 
 else:
     df = df[df['Preperation'].isin(type_SELECTED)]
+
+
+
+# #selecting age range
+# st.title("Age")
+# P_type = df['Proc. Date'].unique()
+# type(df['Proc. Date'][1])
+
+# date_time_obj = datetime.strptime(df['Proc. Date'][1], '%m-%d-%y')
+
+
+#selecting sex
+S_type = df['Sex'].unique()
+Sex_SELECTED = st.multiselect('Select sex', S_type)
+if Sex_SELECTED == []:
+    pass 
+else:
+    df = df[df['Sex'].isin(Sex_SELECTED)]
 st.write(df)
-
-
-#selecting age range

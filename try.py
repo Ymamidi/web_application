@@ -53,13 +53,9 @@ else:
     df = df[df['Sex'].isin(Sex_SELECTED)]
 
 #selecting age range
-values = st.sidebar.slider('Select age range', 0, 200, (0, 200))
-df = df[(df['Age'] >= values[0]) & (df['Age'] <= values[1])]
-
-Min_age = st.sidebar.text_input('Input min age (years)') 
-Max_age = st.sidebar.text_input('Input max age (years)') 
+Min_age = st.sidebar.text_input('Input min age (years)', 0) 
+Max_age = st.sidebar.text_input('Input max age (years)', 200) 
 df = df[(df['Age'] >= int(Min_age)) & (df['Age'] <= int(Max_age))]
-
 
 #selecting patient race
 R_type = df['Race'].unique()
@@ -79,24 +75,31 @@ else:
     df = df[df['Ethnicity'].isin(E_SELECTED)]
 
 
-buttons = st.sidebar.radio("Collection year range", ("Default", "within last year", "within last 3 years", "within last 5 years", "within last 10 years"))
+# buttons = st.sidebar.radio("Collection year range", ("Default", "within last year", "within last 3 years", "within last 5 years", "within last 10 years"))
 
-if buttons == 'Default':
-    pass
 
-if buttons == 'within last year':
-    df = df[df['Procurment Year'] >= 2019]
+values = st.sidebar.slider('Select year range', 1990, 2020, (1990, 2020))
+if (values[0] == 1990) & (values[1] == 2020):
+    df = df
+else :
+    df = df[(df['Procurment Year'] >= (values[0])) & (df['Procurment Year'] <= values[1])]
+
+# if buttons == 'Default':
+#     pass
+
+# if buttons == 'within last year':
+#     df = df[df['Procurment Year'] >= 2019]
     
 
-if buttons == 'within last 3 years':
-    df = df[df['Procurment Year'] >= 2017]
+# if buttons == 'within last 3 years':
+#     df = df[df['Procurment Year'] >= 2017]
     
-if buttons == 'within last 5 years':
-    df = df[df['Procurment Year'] >= 2015]
+# if buttons == 'within last 5 years':
+#     df = df[df['Procurment Year'] >= 2015]
 
-if buttons == 'within last 10 years':
-    df = df[df['Procurment Year'] >= 2010]
-    
+# if buttons == 'within last 10 years':
+#     df = df[df['Procurment Year'] >= 2010]
+
 st.subheader('Total Cases: ')
 st.write(len(df))
 st.write(df) 

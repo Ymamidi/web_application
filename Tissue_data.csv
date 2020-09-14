@@ -1,10 +1,475 @@
 Specimen,Procurment Year,Age,Race,Sex,Preperation,Amount/Size,Type of tissue,Name of Disease,Type,Campus,Ethnicity
+BONE MARROW,1992,0,BLACK,Female,Frozen,,N/A,Premature dysmorphic infant; peritonitis 2° to perforation of distal duodenum; sepsis.,Human,UAB,Non-Hispanic
+BRAIN,1992,38,WHITE,Male,Frozen,1 Cassette,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+BRAIN,1992,92,WHITE,Female,Frozen,1 Cassette,MALIGNANT,meningioma.,Human,UAB,Non-Hispanic
+BRAIN,1992,0,N/A,,Frozen,,N/A,N/A,Human,UAB,Hispanic
+ADRENAL,1994,61,WHITE,Female,Frozen,2 Cassettes,N/A,Mets. pheochromocytoma to liver.,Human,UAB,Non-Hispanic
+ADRENAL,1995,62,OTHER,Female,Frozen,3.4 Grams,N/A,Adrenal cortical neoplasm; undetermined malignancy.,Human,UAB,Hispanic
+ADRENAL,1995,68,WHITE,Male,Frozen,6 Grams,N/A,Adrenal cortical neoplasm; undetermined malignancy.,Human,UAB,Non-Hispanic
+ADRENAL,1995,68,WHITE,Male,Frozen,4.5 Grams,N/A,Adrenal cortical neoplasm; undetermined malignancy.,Human,UAB,Non-Hispanic
+BRAIN,1995,83,WHITE,Male,Frozen,4 Cassettes,DISEASED,Alzheimer's.,Human,UAB,Non-Hispanic
+BRAIN,1995,83,WHITE,Male,Frozen,2 Cassettes,DISEASED,Alzheimer's.,Human,UAB,Non-Hispanic
+ADRENAL,1996,52,WHITE,Male,Frozen,2.75 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+BRAIN,1996,78,WHITE,Female,Frozen,3 Grams,DISEASED,Normal mild ischemic changes,Human,UAB,Non-Hispanic
+BRAIN,1996,24,WHITE,Male,Frozen,.16 Grams,BENIGN,Epidermoid cyst of brain.,Human,UAB,Non-Hispanic
+BRAIN,1996,24,WHITE,Male,Frozen,.43 Grams,BENIGN,Epidermoid cyst of brain.,Human,UAB,Non-Hispanic
+ADRENAL,1997,73,WHITE,Male,Frozen,1.58 Grams,N/A,Adrenal; autolytic.,Human,UAB,Non-Hispanic
+BRAIN,1997,29,WHITE,Female,Frozen,.3 Grams,MALIGNANT,oligodendroglioma,Human,UAB,Non-Hispanic
+ADRENAL,1998,47,BLACK,Male,Frozen,1.35 Gramsbanked,N/A,Nodular Adrenal,Human,UAB,Non-Hispanic
+ADRENAL,1998,57,WHITE,Male,Frozen,1.7Grams,N/A,Normal Adrenal (from RCC),Human,UAB,Non-Hispanic
+ADRENAL,1999,70,WHITE,Male,Frozen,,N/A,Adrenal -NORMAL (from cortincal adenoma & RCC of kidney),Human,UAB,Non-Hispanic
+ADRENAL,1999,70,WHITE,Male,Frozen,,N/A,Adrenal Cortinal Adenoma w/border NL adrenal (from RCC of kidney),Human,UAB,Non-Hispanic
+ADRENAL,2000,73,WHITE,Male,Frozen,.09 Grams,N/A,Adrenal with some pheochromocytoma seen,Human,UAB,Non-Hispanic
+ADRENAL,2000,64,WHITE,Female,Frozen,1.48Grams,N/A,Adrenocortical cortical carcinoma of adrenal,Human,UAB,Non-Hispanic
+ADRENAL,2000,67,OTHER,Female,Frozen,.13Grams,N/A,Adrenal cortical adenoma,Human,UAB,Hispanic
+ADRENAL,2000,67,OTHER,Female,Frozen,.22Grams,N/A,Adrenal cortical adenoma with borderNORMAL adrenal cortex,Human,UAB,Hispanic
+ADRENAL,2000,57,OTHER,Female,Frozen,.51Grams,N/A,Adrenocortical carcinoma,Human,UAB,Hispanic
+BRAIN,2000,22,WHITE,Male,Frozen,2.44 Grams,N/A,Brain with ischemic change.,Human,UAB,Non-Hispanic
+ADRENAL,2001,49,WHITE,Female,Frozen,.91 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
+CARTILAGE,2001,0,N/A,Female,Frozen,1 Cassette,NORMAL,neural tube defect,Human,UAB,Hispanic
+ADRENAL,2002,60,WHITE,Male,Frozen,.6 Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
+ADRENAL,2002,60,WHITE,Male,Frozen,.8Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
+ADRENAL,2002,60,WHITE,Male,Frozen,.6 Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
+ADRENAL,2002,60,WHITE,Male,Frozen,.8Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
+ADRENAL,2002,60,WHITE,Male,Frozen,..8 Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
+ADRENAL,2002,53,WHITE,Male,Frozen,1 Gram,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+ADRENAL,2003,38,WHITE,Female,Frozen,.63 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
+ADRENAL,2003,38,WHITE,Female,Frozen,.59 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
+ADRENAL,2003,33,WHITE,Female,Frozen,5.3 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+ADRENAL,2003,33,WHITE,Female,Frozen,3.5 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+ADRENAL,2003,57,BLACK,Male,Frozen,.48 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
+ADRENAL,2003,57,BLACK,Male,Frozen,.52 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
+BRAIN,2003,15,BLACK,Male,Frozen,2.73 Grams,N/A,Ganglioneuroma.,Human,UAB,Non-Hispanic
+BLADDER,2004,54,WHITE,Male,Frozen,2.55Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2004,27,WHITE,Female,Frozen,1.46 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+ADRENAL,2004,27,WHITE,Female,Frozen,1.34 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+ADRENAL,2004,27,WHITE,Female,Frozen,1.11 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+ADRENAL,2004,27,WHITE,Female,Frozen,1.81 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
+CARTILAGE,2004,52,WHITE,Male,Frozen,1.7 Grams,NORMAL,osteosarcoma,Human,UAB,Non-Hispanic
+CARTILAGE,2004,52,WHITE,Male,Frozen,2.55 Grams,NORMAL,osteosarcoma,Human,UAB,Non-Hispanic
 APPENDIX,2005,65,BLACK,Female,Frozen,2.63Grams,BENIGN, mucinous cystadenoma,Human,UAB,Non-Hispanic
+BLADDER,2005,72,OTHER,Male,Frozen,1.0Grams,NORMAL,N/A,Human,UAB,Hispanic
+ADRENAL,2005,60,BLACK,Male,Frozen,.27 Grams,NORMAL, Cortex,Human,UAB,Non-Hispanic
+CARTILAGE,2005,66,BLACK,Female,Frozen,.14 Grams,NORMAL,Coronary Artery Disease,Human,UAB,Non-Hispanic
+CARTILAGE,2005,18,BLACK,Female,Frozen,1.57 Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2006,4,OTHER,Male,Frozen,8Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Hispanic
+ADRENAL,2006,4,OTHER,Male,Frozen,9Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Hispanic
+ADRENAL,2006,45,WHITE,Male,Frozen,.87Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2006,63,WHITE,Female,Frozen,6.36 Grams,MALIGNANT, PHEOCHROMOCYTOMA* ,Human,UAB,Non-Hispanic
+ADRENAL,2006,45,WHITE,Female,Frozen,1.6 Grams,BENIGN, Adenoma,Human,UAB,Non-Hispanic
+BONE MARROW,2006,55,OTHER,Male,Frozen,Grams,N/A,Cellular (~ 50%) bone marrow with trilineage hematopoiesis,Human,UAB,Hispanic
+BONE MARROW,2006,55,OTHER,Male,Frozen,Grams,N/A,Cellular (~ 50%) bone marrow with trilineage hematopoiesis,Human,UAB,Hispanic
+BONE MARROW,2006,55,OTHER,Male,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Hispanic
+BONE MARROW,2006,44,OTHER,Male,Frozen,Grams,N/A,Hypoplasia megakaryocytic,Human,UAB,Hispanic
+BONE MARROW,2006,44,OTHER,Male,Frozen,Grams,N/A,Hypoplasia megakaryocytic,Human,UAB,Hispanic
+BONE MARROW,2006,50,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,54,BLACK,Male,Frozen,Grams,N/A,T lymphoblastic,Human,UAB,Non-Hispanic
+BONE MARROW,2006,54,BLACK,Male,Frozen,Grams,N/A,T lymphoblastic,Human,UAB,Non-Hispanic
+BONE MARROW,2006,71,WHITE,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2006,65,WHITE,Female,Frozen,Grams,N/A,"Remission marrow, No morphologic evidence of malignancy",Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,63,WHITE,Male,Frozen,Grams,N/A,Myelodysplastic syndrome/Refractory Anemia with Excess Blasts ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,73,WHITE,Female,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,61,WHITE,Female,Frozen,Grams,N/A,Normal morphology and cellula rarity,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Male,Frozen,Grams,N/A,Variable cellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Male,Frozen,Grams,N/A,Variable cellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,57,WHITE,Male,Frozen,Grams,N/A,Refractory anemia   with excess blasts     ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,57,WHITE,Male,Frozen,Grams,N/A,Refractory anemia   with excess blasts     ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,60,WHITE,Male,Frozen,Grams,N/A,A distinct population of myeloid blasts ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,45,WHITE,Female,Frozen,Grams,N/A,Acute erythroid leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2006,73,WHITE,Female,Frozen,Grams,N/A,"Variably cellular marrow,NORMAL morphology",Human,UAB,Non-Hispanic
+BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
+BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
+BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
+BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
+BONE MARROW,2006,63,WHITE,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,44,BLACK,Female,Frozen,ML,N/A,"Acute myeloid leukemia, recurrent",Human,UAB,Non-Hispanic
+BONE MARROW,2006,44,BLACK,Female,Frozen,ML,N/A,"Acute myeloid leukemia, recurrent",Human,UAB,Non-Hispanic
+BONE MARROW,2006,70,WHITE,Male,Frozen,ML,N/A,"Acute myeloblastic leukemia, minimally differentiated ",Human,UAB,Non-Hispanic
+BONE MARROW,2006,38,WHITE,Female,Frozen,Grams,N/A,AML.,Human,UAB,Non-Hispanic
+BONE MARROW,2006,70,WHITE,Male,Frozen,ML,N/A,"Acute myeloblastic leukemia, minimally differentiated ",Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,67,WHITE,Male,Frozen,ML,N/A,Relapsed/persistent acute leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,ML,N/A,Hypocellular (<5%) bone marrow consistent with treatment effect,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,ML,N/A,Hypocellular (<5%) bone marrow consistent with treatment effect,Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,Hypocellular (5-10%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular (~90%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular (~90%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular (~90%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,61,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,31,WHITE,Male,Frozen,Grams,N/A,Increased frequency of immature B lineage cells ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,82,BLACK,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,65,OTHER,Female,Frozen,Grams,N/A,Normocellular marrow with mild plasmacytosis (pt has lupus),Human,UAB,Hispanic
+BONE MARROW,2006,64,WHITE,Male,Frozen,ML,N/A,Hypoplasia of bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,49,OTHER,Female,Frozen,ML,N/A,Acute Promyelocytic Leukemia type III blast,Human,UAB,Hispanic
+BONE MARROW,2006,49,OTHER,Female,Frozen,ML,N/A,Acute Promyelocytic Leukemia type III blast,Human,UAB,Hispanic
+BONE MARROW,2006,23,WHITE,Male,Frozen,ML,N/A,Variable cellular (20-50%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,33,WHITE,Female,Frozen,Grams,N/A,Relapsed acute promyelocytic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,49,BLACK,Female,Frozen,Grams,N/A,Chronic lymphocytic leukemia with replacement of marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,60,WHITE,Female,Frozen,ML,N/A,Small lymphocytic lymphoma (SLL/CLL) with increased prolymphocytes ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,60,WHITE,Female,Frozen,ML,N/A,Small lymphocytic lymphoma (SLL/CLL) with increased prolymphocytes ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,79,OTHER,Female,Frozen,Grams,N/A,Chronic thrombocytopenia,Human,UAB,Hispanic
+BONE MARROW,2006,47,BLACK,Male,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,24,BLACK,Male,Frozen,Grams,N/A,Hypoplasia bone marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,24,BLACK,Male,Frozen,Grams,N/A,Hypoplasia bone marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,47,BLACK,Female,Frozen,ML,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,68,WHITE,Female,Frozen,Grams,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,68,WHITE,Female,Frozen,Grams,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,68,WHITE,Female,Frozen,Grams,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,BLACK,Male,Frozen,Grams,N/A,Hypocellular bone marrow with erythroid predominance,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,BLACK,Male,Frozen,Grams,N/A,Hypocellular bone marrow with erythroid predominance,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,BLACK,Male,Frozen,Grams,N/A,Hypocellular bone marrow with erythroid predominance,Human,UAB,Non-Hispanic
+BONE MARROW,2006,28,N/A,Female,Frozen,Grams,N/A,Hypocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Hispanic
+BONE MARROW,2006,85,WHITE,Male,Frozen,ML,N/A,Cellular (30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,85,WHITE,Male,Frozen,ML,N/A,Cellular (30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,68,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow with no lymphoid aggregates,Human,UAB,Non-Hispanic
+BONE MARROW,2006,67,WHITE,Male,Frozen,ML,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,50,OTHER,Male,Frozen,Grams,N/A,Normocellular Marrow; 1 benign lymphoid aggregate,Human,UAB,Hispanic
+BONE MARROW,2006,69,WHITE,Male,Frozen,Grams,N/A,Acute megakaryoblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,69,WHITE,Male,Frozen,Grams,N/A,Acute megakaryoblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,69,WHITE,Male,Frozen,Grams,N/A,Acute megakaryoblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,24,WHITE,Female,Frozen,Grams,N/A,Precursor B   lymphoblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,24,WHITE,Female,Frozen,Grams,N/A,Precursor B   lymphoblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,24,WHITE,Female,Frozen,Grams,N/A,Precursor B   lymphoblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,71,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,71,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,69,BLACK,Male,Frozen,Grams,N/A,Malignant lymphoma,Human,UAB,Non-Hispanic
+BONE MARROW,2006,69,BLACK,Male,Frozen,Grams,N/A,Malignant lymphoma,Human,UAB,Non-Hispanic
+BONE MARROW,2006,76,WHITE,Male,Frozen,Grams,N/A,No evidence of monoclonal population of the lymphoid cells.,Human,UAB,Non-Hispanic
+BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Scant marrow particles with minimal dyserythropoiesis and NRBC with multiple Howell-Jolly bodies; No obvious infiltrative process,Human,UAB,Non-Hispanic
+BONE MARROW,2006,47,WHITE,Male,Frozen,Grams,N/A,Bilateral lymphoid aggregates,Human,UAB,Non-Hispanic
+BONE MARROW,2006,66,WHITE,Male,Frozen,Grams,N/A,Bone marrow positive for lymphomatous infiltrates,Human,UAB,Non-Hispanic
+BONE MARROW,2006,66,WHITE,Male,Frozen,Grams,N/A,Bone marrow positive for lymphomatous infiltrates,Human,UAB,Non-Hispanic
+BONE MARROW,2006,78,WHITE,Female,Frozen,Grams,N/A,Normocellular marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,72,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,46,N/A,Male,Frozen,Grams,N/A,Dysplasia erythroid ,Human,UAB,Hispanic
+BONE MARROW,2006,52,WHITE,Female,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,0,N/A,Male,Frozen,Grams,N/A,Normocellular bone marrow,Human,UAB,Hispanic
+BONE MARROW,2006,47,OTHER,Male,Frozen,Grams,N/A,Hypoplasia,Human,UAB,Hispanic
+BONE MARROW,2006,47,OTHER,Male,Frozen,Grams,N/A,Hypoplasia,Human,UAB,Hispanic
+BONE MARROW,2006,68,WHITE,Male,Frozen,ML,N/A,Cellular (10-30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,56,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow (80-85%) with lymphoma ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,56,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow (80-85%) with lymphoma ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Hypocellular bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,72,WHITE,Female,Frozen,Grams,N/A,Variably cellular marrow with mild dyserythropoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,72,WHITE,Female,Frozen,Grams,N/A,Variably cellular marrow with mild dyserythropoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,70,WHITE,Female,Frozen,ML,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Male,Frozen,Grams,N/A,Normocellular marrow (20-40%) with megaloblastic changes ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,64,OTHER,Male,Frozen,Grams,N/A,Marrow with trilineal hematopiesis,Human,UAB,Hispanic
+BONE MARROW,2006,26,WHITE,Female,Frozen,Grams,N/A,Normocystic marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,38,WHITE,Male,Frozen,Grams,N/A,Cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,18,WHITE,Female,Frozen,ML,N/A,Hypocellular bone marrow dysmegakaryopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2006,51,WHITE,Female,Frozen,Grams,N/A,Refactory anemia,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Female,Frozen,Grams,N/A,Myelodysplastic Syndrome unclassified,Human,UAB,Non-Hispanic
+BONE MARROW,2006,42,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,42,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,55,WHITE,Male,Frozen,Grams,N/A,"Malignant lymphoma, predominantly follicular",Human,UAB,Non-Hispanic
+BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Chronic myeloproliferative disease with marked   myelofibrosis ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Chronic myeloproliferative disease with marked   myelofibrosis ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Chronic myeloproliferative disease with marked   myelofibrosis ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,41,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
+BONE MARROW,2006,47,OTHER,Female,Frozen,Grams,N/A,Hypoplasia of bone marrow,Human,UAB,Hispanic
+BONE MARROW,2006,45,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,45,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,35,WHITE,Male,Frozen,ML,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
+BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
+BONE MARROW,2006,59,OTHER,Male,Frozen,Grams,N/A,Myelofibrosis bone marrow,Human,UAB,Hispanic
+BONE MARROW,2006,49,WHITE,Female,Frozen,,N/A,Normal Bone Marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2006,62,OTHER,Male,Frozen,Grams,N/A,Normocellular Marrow with Trilineal Hematopoeisis,Human,UAB,Hispanic
+BONE MARROW,2006,57,OTHER,Male,Frozen,Grams,N/A,Rare plasma cells seen on aspirate ,Human,UAB,Hispanic
+BONE MARROW,2006,57,OTHER,Male,Frozen,Grams,N/A,Rare plasma cells seen on aspirate ,Human,UAB,Hispanic
+BONE MARROW,2006,57,OTHER,Male,Frozen,Grams,N/A,Rare plasma cells seen on aspirate ,Human,UAB,Hispanic
+BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
 APPENDIX,2007,67,WHITE,Female,Frozen,.43Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
+ADRENAL,2007,63,WHITE,Female,Frozen,5.7 Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2007,63,WHITE,Female,Frozen,6.01 Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2007,63,WHITE,Female,Frozen,7.43 Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2007,50,WHITE,Male,Frozen,1.38 Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2007,42,BLACK,Female,Frozen,4.69 Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,42,OTHER,Female,Frozen,0.5ML,N/A,"Acute lymphoblastic leukemia, precursor B-cell type",Human,UAB,Hispanic
+BONE MARROW,2007,42,OTHER,Female,Frozen,2ML,N/A,Relapsed precursor B-lymphoblastic leukemia ,Human,UAB,Hispanic
+BONE MARROW,2007,62,WHITE,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,58,WHITE,Female,Frozen,Grams,N/A,Cellular bone marrow (50-60%) with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,57,WHITE,Male,Frozen,Grams,N/A,Acute myeloblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,44,WHITE,Female,Frozen,Grams,N/A,Normal bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,59,BLACK,Female,Frozen,1ML,N/A,Normocellular morphology bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,59,WHITE,Male,Frozen,2ML,N/A,Variably cellular (10-50%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,27,BLACK,Female,Frozen,1ML,N/A,Persistent/relapsed acute myeloid leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,49,WHITE,Female,Frozen,0.5ML,N/A,Markedly hypocellular marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,53,WHITE,Female,Frozen,2ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,68,WHITE,Male,Frozen,0.5ML,N/A,Slightly hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,38,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,38,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,40,BLACK,Female,Frozen,1.5ML,N/A,Marked hypocellular (<5%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,60,WHITE,Female,Frozen,1.5ML,N/A,Cellular (30-40%) bone marrow with mild dysmegakaryopoiesis and variable myelofibrosis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,43,WHITE,Female,Frozen,1ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,43,WHITE,Female,Frozen,0.5ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,27,BLACK,Female,Frozen,Grams,N/A,Variably hypercellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,27,BLACK,Female,Frozen,Grams,N/A,Variably hypercellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,43,WHITE,Female,Frozen,1ML,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,1.8ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,70,WHITE,Male,Frozen,0.5ML,N/A,"Residual leukemia, myeloid leukemia ",Human,UAB,Non-Hispanic
+BONE MARROW,2007,70,WHITE,Male,Frozen,0.5ML,N/A,"Residual leukemia, myeloid leukemia ",Human,UAB,Non-Hispanic
+BONE MARROW,2007,52,WHITE,Male,Frozen,1.8ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,53,WHITE,Male,Frozen,1.0ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,53,WHITE,Male,Frozen,1.0ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,38,WHITE,Female,Frozen,0.7ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,63,BLACK,Female,Frozen,1ML,N/A,Variably cellular (10 – 40%) marrow with slightly   increased blasts ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,70,WHITE,Male,Frozen,1.5ML,N/A,Cellular particles with erythroid hyperplasia   and mild erythroid dysplasia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,31,WHITE,Female,Frozen,0.5ML,N/A,Cellular bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,62,WHITE,Male,Frozen,2ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,37,OTHER,Male,Frozen,2ML,N/A,Hypercellular marrow,Human,UAB,Hispanic
+BONE MARROW,2007,68,OTHER,Male,Frozen,1.0ML,N/A,Variably cellular (5% to 30%) bone marrow.,Human,UAB,Hispanic
+BONE MARROW,2007,68,OTHER,Male,Frozen,2.0Grams,N/A,Variably cellular (5% to 30%) bone marrow.,Human,UAB,Hispanic
+BONE MARROW,2007,68,OTHER,Male,Frozen,1.5ML,N/A,Variably cellular (5% to 30%) bone marrow.,Human,UAB,Hispanic
+BONE MARROW,2007,37,OTHER,Male,Frozen,1.0ML,N/A,Hypercellular bone marrow,Human,UAB,Hispanic
+BONE MARROW,2007,37,OTHER,Male,Frozen,0.5Grams,N/A,Hypercellular bone marrow,Human,UAB,Hispanic
+BONE MARROW,2007,55,BLACK,Female,Frozen,0.5Grams,N/A,Persistent acute myeloid leukemia (approximately 70% of marrow replaced by blasts). ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,55,BLACK,Female,Frozen,0.9Grams,N/A,Persistent acute myeloid leukemia (approximately 70% of marrow replaced by blasts). ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,BLACK,Male,Frozen,,N/A,"AML...,",Human,UAB,Non-Hispanic
+BONE MARROW,2007,47,BLACK,Male,Frozen,,N/A,"AML w/ thrombocytopenia
+pt has had chemotherapy...,",Human,UAB,Non-Hispanic
+BONE MARROW,2007,64,BLACK,Female,Frozen,,N/A,AML Variably hypocellular (<5 to 15%) bone marrow without morphologic   evidence of acute leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,43,WHITE,Female,Frozen,,N/A,"Hyperplasia erythroid, AML",Human,UAB,Non-Hispanic
+BONE MARROW,2007,42,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
+BONE MARROW,2007,64,WHITE,Female,Frozen,,N/A,"AML...,",Human,UAB,Non-Hispanic
+BONE MARROW,2007,55,WHITE,Female,Frozen,0.5ML,N/A,Varibably cellular marrow 30-60%,Human,UAB,Non-Hispanic
+BONE MARROW,2007,50,WHITE,Male,Frozen,Grams,N/A,Persistent/relapsed acute myeloblastic leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,41,BLACK,Female,Frozen,1ML,N/A,TypeIII blast,Human,UAB,Non-Hispanic
+BONE MARROW,2007,33,OTHER,Male,Frozen,0.5Grams,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
+BONE MARROW,2007,66,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,70,WHITE,Male,Frozen,1ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,70,WHITE,Male,Frozen,1ML,N/A,Lymphomatous infiltration (predominantly small cells)of the bone ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,50,N/A,Male,Frozen,0.5ML,N/A,Slightly hypercellular (50 to 60%) marrow with markedly decreased megakaryocytes,Human,UAB,Hispanic
+BONE MARROW,2007,79,WHITE,Male,Frozen,0.8ML,N/A,Slight hypercellular bone marrow with erythroid hyperplasia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,55,WHITE,Male,Frozen,Grams,N/A,Cellular (30-40%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,34,WHITE,Female,Frozen,0.5ML,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,57,BLACK,Female,Frozen,1.0ML,N/A,TypeIII blast,Human,UAB,Non-Hispanic
+BONE MARROW,2007,57,BLACK,Female,Frozen,1ML,N/A,Variably cellular (30-60%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,33,OTHER,Female,Frozen,2ML,N/A,Variably cellular (50–90%) bone marrow ,Human,UAB,Hispanic
+BONE MARROW,2007,33,OTHER,Female,Frozen,1.5ML,N/A,Variably cellular (50–90%) bone marrow ,Human,UAB,Hispanic
+BONE MARROW,2007,49,WHITE,Female,Frozen,1.5ML,N/A,Slight hypocellular marrow with increased megakaryocytes ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,33,WHITE,Female,Frozen,Grams,N/A,Variably cellular (30-50%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,69,WHITE,Female,Frozen,Grams,N/A,Marrow showing lymphoid aggregates,Human,UAB,Non-Hispanic
+BONE MARROW,2007,48,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow with one small pockets of hematopiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,64,OTHER,Female,Frozen,2ML,N/A,Cellular (30-50%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Hispanic
+BONE MARROW,2007,46,OTHER,Female,Frozen,1.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
+BONE MARROW,2007,48,WHITE,Female,Frozen,0.5ML,N/A,Inadequate for diagnosis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,47,BLACK,Male,Frozen,1.8Grams,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,47,WHITE,Female,Frozen,0.5ML,N/A,Slightly hypercellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,60,OTHER,Male,Frozen,0.5ML,N/A,Variable cellular (<5% - 40%) marrow withNORMAL hematopoietic elements,Human,UAB,Hispanic
+BONE MARROW,2007,61,WHITE,Male,Frozen,0.8ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,61,WHITE,Male,Frozen,1.0ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,59,OTHER,Male,Frozen,ML,N/A,Variably cellular (10-40%) bone marrow with tri-lineage   hematopoiesis ,Human,UAB,Hispanic
+BONE MARROW,2007,50,N/A,Male,Frozen,2ML,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
+BONE MARROW,2007,31,WHITE,Female,Frozen,0.5ML,N/A,70% of blasts myeloperoxidase(MPO) positive,Human,UAB,Non-Hispanic
+BONE MARROW,2007,31,WHITE,Female,Frozen,0.5ML,N/A,70% of blasts myeloperoxidase(MPO) positive,Human,UAB,Non-Hispanic
+BONE MARROW,2007,76,OTHER,Male,Frozen,1.5ML,N/A,Hypercellular (~75%) bone marrow with trilineage hematopoiesis ,Human,UAB,Hispanic
+BONE MARROW,2007,87,WHITE,Male,Frozen,Grams,N/A,Variably cellular (10-40%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,63,BLACK,Female,Frozen,Grams,N/A,Acellular bone marrow inadequate for diagnosis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,49,WHITE,Female,Frozen,2ML,N/A,Variably cellular   (5-90%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,BLACK,Male,Frozen,0.5ML,N/A,Non-diagnostic marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,30,BLACK,Male,Frozen,2ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,30,BLACK,Male,Frozen,1ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,30,BLACK,Male,Frozen,2ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,22,WHITE,Male,Frozen,Grams,N/A,Variable cellular (30-50%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,68,WHITE,Female,Frozen,Grams,N/A,Variably cellular (20-40%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,73,WHITE,Male,Frozen,2ML,N/A,Varibably cellular marrow 10-50%,Human,UAB,Non-Hispanic
+BONE MARROW,2007,73,WHITE,Male,Frozen,1ML,N/A,Varibably cellular marrow 10-50%,Human,UAB,Non-Hispanic
+BONE MARROW,2007,73,WHITE,Male,Frozen,1.4ML,N/A,Varibably cellular marrow 10-50%,Human,UAB,Non-Hispanic
+BONE MARROW,2007,61,WHITE,Female,Frozen,0.1ML,N/A,"Myelodysplastic syndrome, unclassifiable",Human,UAB,Non-Hispanic
+BONE MARROW,2007,79,OTHER,Female,Frozen,Grams,N/A,Acute Promyelocytic Leukemia     ,Human,UAB,Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,18,WHITE,Female,Frozen,0.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,2ML,N/A,Hypercellular (60-70%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,1.5Grams,N/A,Hypercellular (60-70%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,53,WHITE,Male,Frozen,Grams,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,53,WHITE,Male,Frozen,1.8ML,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,61,WHITE,Female,Frozen,0.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,63,WHITE,Male,Frozen,Grams,N/A,Hypercellular (~100%) bone marrow with multi-lineage dysplasia and increased blasts ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,74,WHITE,Male,Frozen,Grams,N/A,Malignant B-cell lymphoma,Human,UAB,Non-Hispanic
+BONE MARROW,2007,80,WHITE,Female,Frozen,Grams,N/A,Involvement of bone marrow with low-grade B-cell   ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,56,N/A,Male,Frozen,0.5Grams,N/A,Slightly hypocellular (~25%) bone marrow with trilineage hematopoiesis,Human,UAB,Hispanic
+BONE MARROW,2007,59,WHITE,Male,Frozen,2ML,N/A,Hypocellular (<5-15%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,59,WHITE,Male,Frozen,2ML,N/A,Hypocellular (<5-15%) bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,59,WHITE,Male,Frozen,1ML,N/A,Follicular lymphoma ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,73,WHITE,Female,Frozen,1.8ML,N/A,Normocellular (30-40%) bone marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,31,N/A,Male,Frozen,2ML,N/A,Slightly hypocellular (30-40%) bone marrow ,Human,UAB,Hispanic
+BONE MARROW,2007,59,WHITE,Male,Frozen,1.5ML,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,64,WHITE,Male,Frozen,2ML,N/A,Variably cellular (15-30%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,66,WHITE,Male,Frozen,0.5ML,N/A,Variably hypocellular marrow (<5%-20%) with tri-lineage hematopoiesis  ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,56,WHITE,Male,Frozen,1ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,66,WHITE,Male,Frozen,1ML,N/A,Cellular (~40%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,66,WHITE,Male,Frozen,0.8ML,N/A,Cellular (~40%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,WHITE,Male,Frozen,0.9ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,46,WHITE,Male,Frozen,0.8Grams,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
+BONE MARROW,2007,67,WHITE,Male,Frozen,0.5ML,N/A,Non-diagnostic marrow ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,72,WHITE,Male,Frozen,1ML,N/A,Variably hypercellular bone marrow,Human,UAB,Non-Hispanic
+BONE MARROW,2007,57,WHITE,Male,Frozen,0.5ML,N/A,Cellular bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,54,WHITE,Male,Frozen,Grams,N/A,Marrow with mild increase in plasma cells,Human,UAB,Non-Hispanic
+BONE MARROW,2007,70,BLACK,Female,Frozen,0.5ML,N/A,Hypercellular marrow with increase of megakaryocytes ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,71,OTHER,Female,Frozen,1ML,N/A,"Malignant lymphoma, diffuse, Large B-cell type",Human,UAB,Hispanic
+BONE MARROW,2007,49,BLACK,Female,Frozen,0.5ML,N/A,Cellular (30-50%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,60,WHITE,Female,Frozen,1ML,N/A,Megakaryocytic hyperplasia consistent with essential thrombocytosis     ,Human,UAB,Non-Hispanic
+BONE MARROW,2007,50,OTHER,Female,Frozen,0.5ML,N/A,Necrosis and granulation tissue formation,Human,UAB,Hispanic
+CARTILAGE,2007,91,WHITE,Male,Frozen,1.51Grams,NORMAL,Squamous Cell Carcinoma,Human,UAB,Non-Hispanic
+BRAIN,2007,4,OTHER,Female,Frozen,1.05Grams,BENIGN,CHOROID PLEXUS PAPILLOMA,Human,UAB,Hispanic
+COLON/RECTUM,2007,57,BLACK,Male,Frozen,1.17Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+BLADDER,2008,21,WHITE,Male,Frozen,5.28Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2008,41,WHITE,Male,Frozen,.41Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2008,51,BLACK,Female,Frozen,1.85 Grams,MALIGNANT, PHEOCHROMOCYTOMA* ,Human,UAB,Non-Hispanic
+ADRENAL,2008,20,WHITE,Female,Frozen,.50Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BONE MARROW,2008,49,WHITE,Female,Frozen,1.5ML,N/A,Persistent/relapsed acute myeloid leukemia   (blast: ~75%) in a cellular (5-30%) bone marrow.,Human,UAB,Non-Hispanic
+BONE MARROW,2008,60,WHITE,Female,Frozen,1.5ML,N/A,Variably cellular (10-40%) bone marrow with trilineage hematopoiesis.,Human,UAB,Non-Hispanic
+BONE MARROW,2008,61,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
+BONE MARROW,2008,58,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
+BONE MARROW,2008,61,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
+BONE MARROW,2008,61,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
+BRAIN,2008,2,WHITE,Female,Frozen,1.17Grams,BENIGN,CHOROID PLEXUS PAPILLOMA,Human,UAB,Non-Hispanic
+COLON/RECTUM,2008,47,WHITE,Male,Frozen,3.65Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2008,56,BLACK,Male,Frozen,4.21Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+BLADDER,2009,73,WHITE,Female,Frozen,.49Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2009,73,WHITE,Female,Frozen,.64Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2009,54,WHITE,Male,Frozen,1Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2009,0,WHITE,Female,Frozen,1.25 Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2009,0,WHITE,Female,Frozen,6.74Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2009,0,WHITE,Female,Frozen,6.84Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2009,0,WHITE,Female,Frozen,5.19Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2009,50,WHITE,Male,Frozen,1.67Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2009,50,WHITE,Male,Frozen,.22 Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BRAIN,2009,12,OTHER,Male,Frozen,.48Grams,BENIGN,CHOROID PLEXUS PAPILLOMA,Human,UAB,Hispanic
+CERVIX,2009,71,WHITE,Female,Frozen,.58Grams,N/A, ENDOMETRIAL CANCER,Human,UAB,Non-Hispanic
+CERVIX,2009,50,WHITE,Female,Frozen,.55Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+BLADDER,2010,63,WHITE,Male,Frozen,.33Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2010,63,WHITE,Male,Frozen,.26Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2010,79,WHITE,Male,Frozen,.43Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2010,79,WHITE,Male,Frozen,.64Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2010,65,WHITE,Male,Frozen,.23Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2010,65,WHITE,Male,Frozen,.98Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2010,48,WHITE,Male,Frozen,5.41Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2010,48,WHITE,Male,Frozen,6.89Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2010,48,WHITE,Male,Frozen,5.30Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+CARTILAGE,2010,79,WHITE,Male,Frozen,.30Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+CARTILAGE,2010,79,WHITE,Male,Frozen,.24Grams,NORMAL,Squamous Cell Carcinoma,Human,UAB,Non-Hispanic
+CARTILAGE,2010,72,BLACK,Male,Frozen,.13Grams,NORMAL,peripheral vascular disease,Human,UAB,Non-Hispanic
+CARTILAGE,2010,72,BLACK,Male,Frozen,.07Grams,NORMAL,peripheral vascular disease,Human,UAB,Non-Hispanic
+CERVIX,2010,64,WHITE,Female,Frozen,2.08Grams,NORMAL, L TUBO-OVARIAN ABSCESS,Human,UAB,Non-Hispanic
+CERVIX,2010,68,WHITE,Female,Frozen,.80Grams,NORMAL, PAPILLARY SEROUS CARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2010,50,BLACK,Female,Frozen,.50Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2010,38,BLACK,Female,Frozen,.75Grams,NORMAL, ENDOMETRIOSIS,Human,UAB,Non-Hispanic
+CERVIX,2010,38,BLACK,Female,Frozen,.67Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2010,30,WHITE,Female,Frozen,.62Grams,MALIGNANT,t w/ GLASSY CELL CARCINOMA,Human,UAB,Non-Hispanic
+Pelvis,2010,83,WHITE,Female,Frozen,9Grams,MALIGNANT, MUCINOUS ADENOCARCINOMA OF OVARY ,Human,UAB,Non-Hispanic
+CERVIX,2010,63,WHITE,Female,Frozen,2.85Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2010,63,WHITE,Female,Frozen,4.17Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2010,63,WHITE,Female,Frozen,3.18Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2010,59,WHITE,Female,Frozen,3.53Grams,NORMAL, SEROUS CYSTADENOMA OF OVARY,Human,UAB,Non-Hispanic
+CERVIX,2010,44,BLACK,Female,Frozen,5.67Grams,NORMAL, UTERINE PROLAPSE,Human,UAB,Non-Hispanic
+ADRENAL,2011,51,BLACK,Female,Frozen,.36Grams,NORMAL, CORTEX ,Human,UAB,Non-Hispanic
+ADRENAL,2011,41,WHITE,Female,Frozen,.24 Grams,NORMAL, CORTEX & MEDULLA ,Human,UAB,Non-Hispanic
+ADRENAL,2011,41,WHITE,Female,Frozen,.21 Grams,NORMAL, CORTEX & MEDULLA ,Human,UAB,Non-Hispanic
+ADRENAL,2011,47,WHITE,Male,Frozen,1.3Grams,BENIGN, GANGLIONEUROMA,Human,UAB,Non-Hispanic
+ADRENAL,2011,47,WHITE,Male,Frozen,1.86Grams,BENIGN, GANGLIONEUROMA,Human,UAB,Non-Hispanic
+ADRENAL,2011,47,WHITE,Male,Frozen,1.28Grams,BENIGN, GANGLIONEUROMA,Human,UAB,Non-Hispanic
+ADRENAL,2011,47,WHITE,Male,Frozen,1.41Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2011,47,WHITE,Male,Frozen,0.88Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+CERVIX,2011,28,BLACK,Female,Frozen,.59Grams,NORMAL, ENDOMETRIOSIS,Human,UAB,Non-Hispanic
+CERVIX,2011,40,WHITE,Female,Frozen,1.00Grams,NORMAL, ENDOMETRIAL CARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2011,53,BLACK,Female,Frozen,1.22 Grams,NORMAL, UTERINE FIBROID AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2011,41,BLACK,Female,Frozen,2.5x1x0.03CM,NORMAL, SEVERE DYSPLASIA TO CARCINOMA IN SITU (CIN-III),Human,UAB,Non-Hispanic
+CERVIX,2011,57,BLACK,Female,Frozen,.82Grams,NORMAL, BILATERAL SEROUS CYSTADENOFIBROMA AND FIBROID,Human,UAB,Non-Hispanic
+CERVIX,2011,48,BLACK,Female,Frozen,1.23Grams,NORMAL, UTERINE FIBROID,Human,UAB,Non-Hispanic
+CERVIX,2011,60,WHITE,Female,Frozen,.33Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2011,82,WHITE,Female,Frozen,.48Grams,NORMAL, UTERINE FIBROID (ENDOMETRIAL STROMAL SARCOMA - LOW GRADE),Human,UAB,Non-Hispanic
+ADRENAL,2012,51,WHITE,Male,Frozen,1.56Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+CERVIX,2012,74,WHITE,Female,Frozen,.70Grams,NORMAL,ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2012,74,WHITE,Female,Frozen,.54Grams,NORMAL, ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2012,67,WHITE,Female,Frozen,.9Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2012,43,WHITE,Female,Frozen,.43Grams,NORMAL, BILATERAL FOLLICULAR OVARIAN CYST,Human,UAB,Non-Hispanic
+CERVIX,2012,53,WHITE,Female,Frozen,.65Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2012,56,BLACK,Female,Frozen,.42Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2012,41,WHITE,Female,Frozen,.79Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2012,34,WHITE,Female,Frozen,1.3Grams,NORMAL, SCC OF CERVIX,Human,UAB,Non-Hispanic
+CERVIX,2012,41,OTHER,Female,Frozen,0.78Grams,NORMAL,  FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Hispanic
+CERVIX,2012,42,BLACK,Female,Frozen,1.16Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+COLON/RECTUM,2012,59,WHITE,Female,Frozen,.19Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2012,59,WHITE,Female,Frozen,.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2013,3,WHITE,Male,Frozen,1.80Grams,INDETERMINATE, Adrenocortical Tumor,Human,UAB,Non-Hispanic
+ADRENAL,2013,3,WHITE,Male,Frozen,1.04Grams,INDETERMINATE, Adrenocortical Tumor,Human,UAB,Non-Hispanic
 APPENDIX,2014,62,BLACK,Female,Frozen,0.25Grams,MALIGNANT, Signet Ring Carcinoma,Human,UAB,Non-Hispanic
 APPENDIX,2014,62,BLACK,Female,Frozen,0.20Grams,MALIGNANT, Signet Ring Carcinoma,Human,UAB,Non-Hispanic
+BLADDER,2014,69,WHITE,Male,Frozen,0.67Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BRAIN,2014,88,BLACK,Male,Frozen,.38Grams,BENIGN,MENINGIOMA ,Human,UAB,Non-Hispanic
+BRAIN,2014,88,BLACK,Male,Frozen,.45Grams,BENIGN,N/A,Human,UAB,Non-Hispanic
+CERVIX,2014,54,WHITE,Female,Frozen,0.42Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2014,54,WHITE,Female,Frozen,0.58Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2014,51,WHITE,Female,Frozen,0.57Grams,BENIGN, ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2014,56,WHITE,Female,Frozen,0.36Grams,NORMAL, OVARIAN CYSTADENOFIBROMA,Human,UAB,Non-Hispanic
+CERVIX,2014,37,BLACK,Female,Frozen,0.43Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2014,63,WHITE,Female,Frozen,0.35Grams,NORMAL, HIGH GRADE ENDOMETRIUM ADENOCARCINOMA W. MIXED EPITHELIAL TYPE,Human,UAB,Non-Hispanic
+CERVIX,2014,41,WHITE,Female,Frozen,0.54Grams,NORMAL, ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2014,72,BLACK,Female,Frozen,0.69Grams,NORMAL,  MESODERMAL MIXED TUMOR OF OVARY (CARCINOSARCOMA),Human,UAB,Non-Hispanic
+CERVIX,2014,84,BLACK,Female,Frozen,1.00Grams,NORMAL, PAPILLARY SEROUS CARCINOMA,Human,UAB,Non-Hispanic
+COLON/RECTUM,2014,66,WHITE,Male,Frozen,0.16Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2014,66,WHITE,Male,Frozen,0.26Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2014,58,BLACK,Female,Frozen,1.42Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2014,58,BLACK,Female,Frozen,.93Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 APPENDIX,2015,78,WHITE,Female,Frozen,0.43Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
 APPENDIX,2015,27,N/A,Female,Frozen,0.43Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Hispanic
+BLADDER,2015,57,BLACK,Male,Frozen,.1Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+BLADDER,2015,63,WHITE,Male,Frozen,0.14Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+BLADDER,2015,63,WHITE,Male,Frozen,0.47Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+BLADDER,2015,62,WHITE,Male,Frozen,0.34Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2015,5,WHITE,Male,Frozen,.8Grams,MALIGNANT, Neuroblastoma ,Human,UAB,Non-Hispanic
+ADRENAL,2015,5,WHITE,Male,Frozen,.4Grams,MALIGNANT, Neuroblastoma ,Human,UAB,Non-Hispanic
+ADRENAL,2015,44,BLACK,Female,Frozen,0.22Grams,BENIGN, Hemangioma,Human,UAB,Non-Hispanic
+ADRENAL,2015,72,WHITE,Male,Frozen,0.52Grams,BENIGN, HYPERPLASIA ,Human,UAB,Non-Hispanic
+ADRENAL,2015,69,WHITE,Male,Frozen,0.47Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2015,59,WHITE,Female,Frozen,0.37Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2015,59,WHITE,Female,Frozen,0.30Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2015,59,WHITE,Female,Frozen,0.17Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2015,59,WHITE,Female,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2015,65,N/A,Female,Frozen,0.20Grams,N/A,N/A,Human,UAB,Hispanic
+ADRENAL,2015,43,WHITE,Male,Frozen,0.27Grams,BENIGN," adenoma, cortical",Human,UAB,Non-Hispanic
+ADRENAL,2015,43,WHITE,Male,Frozen,0.23Grams,BENIGN," adenoma, cortical",Human,UAB,Non-Hispanic
+ADRENAL,2015,43,WHITE,Male,Frozen,0.10Grams,BENIGN," adenoma, cortical",Human,UAB,Non-Hispanic
+CERVIX,2015,67,WHITE,Female,Frozen,0.20Grams,MALIGNANT, SCC OF CERVIX,Human,UAB,Non-Hispanic
+CERVIX,2015,67,WHITE,Female,Frozen,0.13Grams,NORMAL, BASELOID SCC OF CERVIX OR CIS,Human,UAB,Non-Hispanic
+CERVIX,2015,66,BLACK,Female,Frozen,0.46Grams,NORMAL,Malignant MIXED MULLARIAN TUMOR INVOLVING CERVIX,Human,UAB,Non-Hispanic
+CERVIX,2015,66,BLACK,Female,Frozen,0.34Grams,NORMAL,Malignant MIXED MULLARIAN TUMOR INVOLVING CERVIX,Human,UAB,Non-Hispanic
+CERVIX,2015,52,BLACK,Female,Frozen,0.25Grams,MALIGNANT, ENDOMETRIOID ADENOCARCINOMA INVOLVES CERVICAL STROMAL ,Human,UAB,Non-Hispanic
+CERVIX,2015,52,BLACK,Female,Frozen,0.28Grams,UNINVOLVED, ENDOMETRIOID ADENOCARCINOMA INVOLVES CERVICAL STROMAL,Human,UAB,Non-Hispanic
+CERVIX,2015,29,WHITE,Female,Frozen,1.23Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,56,BLACK,Female,Frozen,0.38Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,74,WHITE,Male,Frozen,0.40Grams,BENIGN,Tubular Adenoma,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,74,WHITE,Male,Frozen,0.39Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,79,BLACK,Female,Frozen,0.90Grams,MALIGNANT, Adenocarcinoma (Mucinous) Primary,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,79,BLACK,Female,Frozen,0.28Grams,NORMAL, MUCOSA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,65,WHITE,Male,Frozen,.14 Grams,N/A,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,58,WHITE,Male,Frozen,0.16Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,58,WHITE,Male,Frozen,0.65Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,60,BLACK,Female,Frozen,0.30Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2015,35,WHITE,Male,Frozen,0.53Grams,DISEASED, COLITIS/INFLAMMATORY BOWEL DZ ,Human,UAB,Non-Hispanic
 APPENDIX,2016,58,WHITE,Female,Frozen,0.62Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 APPENDIX,2016,58,WHITE,Female,Frozen,0.20Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 APPENDIX,2016,58,WHITE,Female,Frozen,0.36Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
@@ -13,29 +478,6 @@ APPENDIX,2016,55,WHITE,Female,Frozen,0.25Grams,MALIGNANT, adenocarcinoma  ,Human
 APPENDIX,2016,55,WHITE,Female,Frozen,0.28Grams,MALIGNANT, adenocarcinoma  ,Human,UAB,Non-Hispanic
 APPENDIX,2016,55,WHITE,Female,Frozen,0.22Grams,MALIGNANT, adenocarcinoma  ,Human,UAB,Non-Hispanic
 APPENDIX,2016,55,WHITE,Female,Frozen,0.24Grams,MALIGNANT, adenocarcinoma  ,Human,UAB,Non-Hispanic
-APPENDIX,2017,94,BLACK,Male,Frozen,0.19Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-APPENDIX,2018,76,WHITE,Male,Frozen,0.24Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
-APPENDIX,2018,76,WHITE,Male,Frozen,0.20Grams,N/A,N/A,Human,UAB,Non-Hispanic
-APPENDIX,2018,52,WHITE,Female,Frozen,2.26Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-APPENDIX,2018,60,BLACK,Female,Frozen,0.92Grams,MALIGNANT,  acellular mucinous,Human,UAB,Non-Hispanic
-BLADDER,2004,54,WHITE,Male,Frozen,2.55Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
-BLADDER,2005,72,OTHER,Male,Frozen,1.0Grams,NORMAL,N/A,Human,UAB,Hispanic
-BLADDER,2008,21,WHITE,Male,Frozen,5.28Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2008,41,WHITE,Male,Frozen,.41Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2009,73,WHITE,Female,Frozen,.49Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2009,73,WHITE,Female,Frozen,.64Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2009,54,WHITE,Male,Frozen,1Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2010,63,WHITE,Male,Frozen,.33Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2010,63,WHITE,Male,Frozen,.26Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2010,79,WHITE,Male,Frozen,.43Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2010,79,WHITE,Male,Frozen,.64Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2010,65,WHITE,Male,Frozen,.23Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2010,65,WHITE,Male,Frozen,.98Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2014,69,WHITE,Male,Frozen,0.67Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2015,57,BLACK,Male,Frozen,.1Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-BLADDER,2015,63,WHITE,Male,Frozen,0.14Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
-BLADDER,2015,63,WHITE,Male,Frozen,0.47Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BLADDER,2015,62,WHITE,Male,Frozen,0.34Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 BLADDER,2016,67,BLACK,Female,Frozen,.75Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 BLADDER,2016,67,BLACK,Female,Frozen,1.2Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 BLADDER,2016,65,WHITE,Female,Frozen,2.06Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
@@ -45,6 +487,55 @@ BLADDER,2016,66,WHITE,Male,Frozen,0.61Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispani
 BLADDER,2016,66,WHITE,Male,Frozen,0.41Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 BLADDER,2016,66,WHITE,Male,Frozen,0.46Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 BLADDER,2016,49,WHITE,Male,Frozen,1.00Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2016,64,N/A,Male,Frozen,0.32Grams,BENIGN, adenoma ,Human,UAB,Hispanic
+ADRENAL,2016,64,N/A,Male,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Hispanic
+ADRENAL,2016,56,N/A,Male,Frozen,0.30Grams,BENIGN, myelolipoma ,Human,UAB,Hispanic
+ADRENAL,2016,56,N/A,Male,Frozen,0.44Grams,BENIGN, myelolipoma ,Human,UAB,Hispanic
+ADRENAL,2016,56,N/A,Male,Frozen,0.31Grams,BENIGN, myelolipoma ,Human,UAB,Hispanic
+ADRENAL,2016,21,WHITE,Male,Frozen,0.21Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2016,21,N/A,Male,Frozen,0.12Grams,NORMAL,N/A,Human,UAB,Hispanic
+ADRENAL,2016,33,WHITE,Female,Frozen,0.20Grams,BENIGN, adenoma ,Human,UAB,Non-Hispanic
+ADRENAL,2016,33,WHITE,Female,Frozen,0.27Grams,BENIGN, adenoma ,Human,UAB,Non-Hispanic
+ADRENAL,2016,33,WHITE,Female,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2016,28,BLACK,Female,Frozen,0.31Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2016,53,BLACK,Female,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2016,70,WHITE,Female,Frozen,0.82Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2016,70,WHITE,Female,Frozen,0.23Grams,N/A,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2016,40,BLACK,Female,Frozen,0.29Grams,BENIGN,  cortical adenoma,Human,UAB,Non-Hispanic
+ADRENAL,2016,40,BLACK,Female,Frozen,0.46Grams,BENIGN,  cortical adenoma,Human,UAB,Non-Hispanic
+ADRENAL,2016,40,BLACK,Female,Frozen,0.14Grams,N/A,N/A,Human,UAB,Non-Hispanic
+Endometrium,2016,52,WHITE,Female,Frozen,0.33Grams,MALIGNANT,  ENDOMETRIAL TUMOR W/ CERVICAL MASS,Human,UAB,Non-Hispanic
+CERVIX,2016,52,WHITE,Female,Frozen,0.34Grams,UNINVOLVED, CLEAR CELL OVARIAN TUMOR INVOLVES CERVICAL STROMA,Human,UAB,Non-Hispanic
+CERVIX,2016,39,BLACK,Female,Frozen,0.43Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,39,BLACK,Female,Frozen,0.33Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,32,BLACK,Female,Frozen,0.45Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,49,BLACK,Female,Frozen,0.69Grams,NORMAL, BENIGN SEROUS CYSTADENOMA,Human,UAB,Non-Hispanic
+CERVIX,2016,49,BLACK,Female,Frozen,0.71Grams,NORMAL,  BENIGN SEROUS CYSTADENOMA,Human,UAB,Non-Hispanic
+CERVIX,2016,49,BLACK,Female,Frozen,0.36Grams,NORMAL,  BENIGN SEROUS CYSTADENOMA,Human,UAB,Non-Hispanic
+CERVIX,2016,42,WHITE,Female,Frozen,0.62Grams,NORMAL, ABNORMAL UTERINE BLEEDING,Human,UAB,Non-Hispanic
+CERVIX,2016,31,BLACK,Female,Frozen,0.54Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,31,BLACK,Female,Frozen,0.45Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,38,BLACK,Female,Frozen,1.11Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,38,BLACK,Female,Frozen,0.64Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,30,WHITE,Female,Frozen,0.74Grams,NORMAL, R OVARIAN CYST W/ MENORRHAGIA,Human,UAB,Non-Hispanic
+CERVIX,2016,38,WHITE,Female,Frozen,0.14Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
+CERVIX,2016,42,BLACK,Female,Frozen,0.49Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
+CERVIX,2016,42,BLACK,Female,Frozen,0.52Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
+CERVIX,2016,42,BLACK,Female,Frozen,0.35Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,42,BLACK,Female,Frozen,0.39Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,41,BLACK,Female,Frozen,0.42Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,34,WHITE,Female,Frozen,1.13Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY,Human,UAB,Non-Hispanic
+CERVIX,2016,34,WHITE,Female,Frozen,0.93Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY,Human,UAB,Non-Hispanic
+CERVIX,2016,39,BLACK,Female,Frozen,0.59Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
+CERVIX,2016,59,WHITE,Female,Frozen,1.30Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+CERVIX,2016,60,BLACK,Female,Frozen,0.33Grams,NORMAL, PAPILLAY SEROUS ADENOCARCINOMA,Human,UAB,Non-Hispanic
+COLON/RECTUM,2016,70,WHITE,Female,Frozen,0.38Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2016,70,WHITE,Female,Frozen,0.20Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2016,79,WHITE,Female,Frozen,0.25Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2016,79,WHITE,Female,Frozen,0.28Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2016,17,WHITE,Female,Frozen,0.33Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2016,54,WHITE,Female,Frozen,1.57Grams,DISEASED," COLITIS, ULCERATIVE ",Human,UAB,Non-Hispanic
+APPENDIX,2017,94,BLACK,Male,Frozen,0.19Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 BLADDER,2017,72,WHITE,Male,Frozen,0.24Grams,N/A,N/A,Human,UAB,Non-Hispanic
 BLADDER,2017,72,WHITE,Male,Frozen,0.86Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 BLADDER,2017,69,WHITE,Male,Frozen,0.50Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
@@ -53,45 +544,99 @@ BLADDER,2017,71,WHITE,Male,Frozen,0.11Grams,MALIGNANT,papillary urothelial carci
 BLADDER,2017,77,WHITE,Male,Frozen,0.22Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 BLADDER,2017,64,WHITE,Male,Frozen,0.33Grams,MALIGNANT,transitional cell carcinoma,Human,UAB,Non-Hispanic
 BLADDER,2017,64,WHITE,Male,Frozen,1.12Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+ADRENAL,2017,81,WHITE,Male,Frozen,0.84Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+CERVIX,2017,76,BLACK,Female,Frozen,0.77Grams,MALIGNANT, SCC OF CERVIX - METASTATIC TO LN,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,70,WHITE,Female,Frozen,0.29Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,70,WHITE,Female,Frozen,1.20Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,51,WHITE,Female,Frozen,0.23Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,51,WHITE,Female,Frozen,1.50Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+ANUS,2017,54,BLACK,Male,Frozen,0.28Grams,MALIGNANT, squamous cell carcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,87,WHITE,Female,Frozen,1.28Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,87,WHITE,Female,Frozen,1.63Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,65,WHITE,Male,Frozen,0.75Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,65,WHITE,Male,Frozen,1.27Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,68,WHITE,Male,Frozen,1.06Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,46,BLACK,Female,Frozen,1.65Grams,BENIGN,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,60,BLACK,Female,Frozen,.41Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,59,WHITE,Male,Frozen,1.29Grams,NORMAL, full thickness,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,67,BLACK,Male,Frozen,4.78Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,52,WHITE,Male,Frozen,1.94Grams,MALIGNANT,  adenocarcinoma,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,52,WHITE,Male,Frozen,1.95Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,63,WHITE,Female,Frozen,0.35Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2017,63,WHITE,Female,Frozen,1.34Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+APPENDIX,2018,76,WHITE,Male,Frozen,0.24Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
+APPENDIX,2018,76,WHITE,Male,Frozen,0.20Grams,N/A,N/A,Human,UAB,Non-Hispanic
+APPENDIX,2018,52,WHITE,Female,Frozen,2.26Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+APPENDIX,2018,60,BLACK,Female,Frozen,0.92Grams,MALIGNANT,  acellular mucinous,Human,UAB,Non-Hispanic
 BLADDER,2018,75,WHITE,Male,Frozen,0.27Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 BLADDER,2018,62,WHITE,Male,Frozen,1.32Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2005,60,BLACK,Male,Frozen,.27 Grams,NORMAL, Cortex,Human,UAB,Non-Hispanic
-ADRENAL,2006,4,OTHER,Male,Frozen,8Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Hispanic
-ADRENAL,2006,4,OTHER,Male,Frozen,9Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Hispanic
-ADRENAL,2006,45,WHITE,Male,Frozen,.87Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2006,63,WHITE,Female,Frozen,6.36 Grams,MALIGNANT, PHEOCHROMOCYTOMA* ,Human,UAB,Non-Hispanic
-ADRENAL,2006,45,WHITE,Female,Frozen,1.6 Grams,BENIGN, Adenoma,Human,UAB,Non-Hispanic
-ADRENAL,2007,63,WHITE,Female,Frozen,5.7 Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2007,63,WHITE,Female,Frozen,6.01 Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2007,63,WHITE,Female,Frozen,7.43 Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2007,50,WHITE,Male,Frozen,1.38 Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
+ADRENAL,2018,28,WHITE,Female,Frozen,0.66Grams,BENIGN, cortical ,Human,UAB,Non-Hispanic
+ADRENAL,2018,40,WHITE,Male,Frozen,1.10Grams,BENIGN, lipoma  ,Human,UAB,Non-Hispanic
+ADRENAL,2018,40,WHITE,Male,Frozen,0.26Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+CERVIX,2018,47,BLACK,Female,Frozen,4.17Grams,BENIGN, UTERINE PROLAPSE,Human,UAB,Non-Hispanic
+CERVIX,2018,35,BLACK,Female,Frozen,2.05Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
+CERVIX,2018,67,BLACK,Female,Frozen,0.57Grams,MALIGNANT, PROLAPSINGMalignant MIXED MULLERIAN TUMOR (CARCINISARCOMA) W/ HETEROGENOUS ELEMENTS,Human,UAB,Non-Hispanic
+CERVIX,2018,41,WHITE,Female,Frozen,0.62Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,29,BLACK,Female,Frozen,0.55Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
+ANUS,2018,56,WHITE,Male,Frozen,0.48Grams,MALIGNANT, squamous cell carcinoma ,Human,UAB,Non-Hispanic
+ANUS,2018,56,WHITE,Male,Frozen,0.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,34,WHITE,Male,Frozen,0.99Grams,DISEASED, crohns dz ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,60,WHITE,Male,Frozen,5.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,60,WHITE,Male,Frozen,1.40Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,53,WHITE,Female,Frozen,0.64Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,31,WHITE,Male,Frozen,0.93Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,60,WHITE,Female,Frozen,1.12Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,85,WHITE,Female,Frozen,1.15Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,68,WHITE,Male,Frozen,0.45Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,40,WHITE,Male,Frozen,0.36Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,40,WHITE,Male,Frozen,0.46Grams,UNINVOLVED, full thickness,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,24,WHITE,Male,Frozen,3.83Grams,DISEASED, active chronic colitis  and proctitis,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,48,BLACK,Female,Frozen,0.25Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,48,BLACK,Female,Frozen,0.86Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,39,WHITE,Female,Frozen,0.80Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,79,BLACK,Male,Frozen,1.21Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,65,WHITE,Female,Frozen,4.05Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,65,WHITE,Female,Frozen,1.28Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,45,WHITE,Male,Frozen,1.08Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,68,WHITE,Female,Frozen,1Grams,DISEASED, DIVERTICULOSIS ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,68,WHITE,Female,Frozen,0.29Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,92,WHITE,Female,Frozen,0.24Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,92,WHITE,Female,Frozen,0.39Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,65,WHITE,Male,Frozen,0.73Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,65,WHITE,Male,Frozen,1.15Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,50,WHITE,Female,Frozen,2.21Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,50,WHITE,Female,Frozen,2.25Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2018,39,WHITE,Male,Frozen,0.71Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
+ADRENAL,2019,60,BLACK,Male,Frozen,.18Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+PERITONEUM,2019,22,WHITE,Male,Frozen,1.60Grams,MALIGNANT, oncocytic,Human,UAB,Non-Hispanic
+ADRENAL,2019,27,WHITE,Male,Frozen,0.14Grams,N/A,N/A,Human,UAB,Non-Hispanic
+CERVIX,2019,70,BLACK,Female,Frozen,1.31Grams,NORMAL,"
+ ENDOMETRIOID ADENOCARCINOMA",Human,UAB,Non-Hispanic
+CERVIX,2019,40,WHITE,Female,Frozen,0.67Grams,NORMAL,"
+ ENDOMETRIOSIS AND SQUAMOUS METAPLASIA OF CERVIX",Human,UAB,Non-Hispanic
+CERVIX,2019,37,BLACK,Female,Frozen,0.5CM2,NORMAL, ADENOMYOSIS AND CERVICITIS,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,69,WHITE,Male,Frozen,0.70Grams,MALIGNANT,  adenocarcinoma,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,69,WHITE,Male,Frozen,0.94Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,49,WHITE,Male,Frozen,1.61Grams,DISEASED," colitis, ulcerative mild",Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,23,WHITE,Male,Frozen,0.60Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,53,WHITE,Male,Frozen,0.33Grams,MALIGNANT, adenocarcinoma  ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,53,WHITE,Male,Frozen,0.52Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,67,BLACK,Male,Frozen,1.33Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,49,WHITE,Male,Frozen,0.52Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,49,WHITE,Male,Frozen,1.09Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,48,BLACK,Female,Frozen,0.66Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,48,BLACK,Female,Frozen,0.92Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,48,WHITE,Male,Frozen,0.14Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,54,WHITE,Female,Frozen,0.20Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,54,WHITE,Female,Frozen,0.60Grams,UNINVOLVED, full thickness,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,44,WHITE,Female,Frozen,1.29Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,2019,44,WHITE,Female,Frozen,0.52Grams,DISEASED, DIVERTICULITIS ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,58,WHITE,Female,Frozen,.46Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2007,42,BLACK,Female,Frozen,4.69 Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2008,51,BLACK,Female,Frozen,1.85 Grams,MALIGNANT, PHEOCHROMOCYTOMA* ,Human,UAB,Non-Hispanic
-ADRENAL,2008,20,WHITE,Female,Frozen,.50Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2009,0,WHITE,Female,Frozen,1.25 Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2009,0,WHITE,Female,Frozen,6.74Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2009,0,WHITE,Female,Frozen,6.84Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2009,0,WHITE,Female,Frozen,5.19Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2009,50,WHITE,Male,Frozen,1.67Grams,MALIGNANT, CORTICAL CARCINOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2009,50,WHITE,Male,Frozen,.22 Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2010,48,WHITE,Male,Frozen,5.41Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2010,48,WHITE,Male,Frozen,6.89Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2010,48,WHITE,Male,Frozen,5.30Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,64,WHITE,Male,Frozen,.85Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2011,51,BLACK,Female,Frozen,.36Grams,NORMAL, CORTEX ,Human,UAB,Non-Hispanic
-ADRENAL,2011,41,WHITE,Female,Frozen,.24 Grams,NORMAL, CORTEX & MEDULLA ,Human,UAB,Non-Hispanic
-ADRENAL,2011,41,WHITE,Female,Frozen,.21 Grams,NORMAL, CORTEX & MEDULLA ,Human,UAB,Non-Hispanic
-ADRENAL,2011,47,WHITE,Male,Frozen,1.3Grams,BENIGN, GANGLIONEUROMA,Human,UAB,Non-Hispanic
-ADRENAL,2011,47,WHITE,Male,Frozen,1.86Grams,BENIGN, GANGLIONEUROMA,Human,UAB,Non-Hispanic
-ADRENAL,2011,47,WHITE,Male,Frozen,1.28Grams,BENIGN, GANGLIONEUROMA,Human,UAB,Non-Hispanic
-ADRENAL,2011,47,WHITE,Male,Frozen,1.41Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2011,47,WHITE,Male,Frozen,0.88Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,67,WHITE,Female,Frozen,0.23Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,34,OTHER,Female,Frozen,1Grams,BENIGN, FIBROSIS AND CHRONIC INFLAMMATION,Human,UAB,Hispanic
 ADRENAL,N/A,34,OTHER,Female,Frozen,1.07Grams,BENIGN, FIBROSIS AND CHRONIC INFLAMMATION,Human,UAB,Hispanic
 ADRENAL,N/A,51,WHITE,Male,Frozen,2.23Grams,MALIGNANT,NEOPLASM (of uncertainMalignant potential) ,Human,UAB,Non-Hispanic
-ADRENAL,2012,51,WHITE,Male,Frozen,1.56Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,42,WHITE,Female,Frozen,1.19Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,44,WHITE,Male,Frozen,0.36Grams,NORMAL, CORTEX,Human,UAB,Non-Hispanic
 ADRENAL,N/A,71,WHITE,Female,Frozen,1.0Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
@@ -100,8 +645,6 @@ ADRENAL,N/A,33,WHITE,Female,Frozen,0.54Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hisp
 ADRENAL,N/A,33,WHITE,Female,Frozen,0.52Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,33,WHITE,Female,Frozen,0.54Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,33,WHITE,Female,Frozen,0.37Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2013,3,WHITE,Male,Frozen,1.80Grams,INDETERMINATE, Adrenocortical Tumor,Human,UAB,Non-Hispanic
-ADRENAL,2013,3,WHITE,Male,Frozen,1.04Grams,INDETERMINATE, Adrenocortical Tumor,Human,UAB,Non-Hispanic
 ADRENAL,N/A,28,WHITE,Male,Frozen,0.38Grams,N/A,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,55,WHITE,Female,Frozen,0.40Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,55,WHITE,Female,Frozen,1.11Grams,BENIGN, MYELOLIPOMA ,Human,UAB,Non-Hispanic
@@ -133,32 +676,12 @@ ADRENAL,N/A,22,BLACK,Male,Frozen,2.8Grams,MALIGNANT, Cortical Carcinoma ,Human,U
 ADRENAL,N/A,22,BLACK,Male,Frozen,3.0Grams,MALIGNANT, Cortical Carcinoma ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,22,BLACK,Male,Frozen,2.5Grams,MALIGNANT, Cortical Carcinoma ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,22,BLACK,Male,Frozen,1.7Grams,MALIGNANT, Cortical Carcinoma ,Human,UAB,Non-Hispanic
-ADRENAL,2015,5,WHITE,Male,Frozen,.8Grams,MALIGNANT, Neuroblastoma ,Human,UAB,Non-Hispanic
-ADRENAL,2015,5,WHITE,Male,Frozen,.4Grams,MALIGNANT, Neuroblastoma ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,52,WHITE,Male,Frozen,0.15Grams,BENIGN, Cortical Adenoma,Human,UAB,Non-Hispanic
-ADRENAL,2015,44,BLACK,Female,Frozen,0.22Grams,BENIGN, Hemangioma,Human,UAB,Non-Hispanic
 ADRENAL,N/A,23,WHITE,Female,Frozen,0.54Grams,MALIGNANT, PHEOCHROMOCYTOMA* ,Human,UAB,Non-Hispanic
-ADRENAL,2015,72,WHITE,Male,Frozen,0.52Grams,BENIGN, HYPERPLASIA ,Human,UAB,Non-Hispanic
-ADRENAL,2015,69,WHITE,Male,Frozen,0.47Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2015,59,WHITE,Female,Frozen,0.37Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2015,59,WHITE,Female,Frozen,0.30Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2015,59,WHITE,Female,Frozen,0.17Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2015,59,WHITE,Female,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2015,65,N/A,Female,Frozen,0.20Grams,N/A,N/A,Human,UAB,Hispanic
-ADRENAL,2015,43,WHITE,Male,Frozen,0.27Grams,BENIGN," adenoma, cortical",Human,UAB,Non-Hispanic
-ADRENAL,2015,43,WHITE,Male,Frozen,0.23Grams,BENIGN," adenoma, cortical",Human,UAB,Non-Hispanic
-ADRENAL,2015,43,WHITE,Male,Frozen,0.10Grams,BENIGN," adenoma, cortical",Human,UAB,Non-Hispanic
 ADRENAL,N/A,71,WHITE,Male,Frozen,0.56Grams,BENIGN,cortical hyperplasia,Human,UAB,Non-Hispanic
-ADRENAL,2016,64,N/A,Male,Frozen,0.32Grams,BENIGN, adenoma ,Human,UAB,Hispanic
-ADRENAL,2016,64,N/A,Male,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Hispanic
 ADRENAL,N/A,50,BLACK,Male,Frozen,0.29Grams,N/A,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,50,BLACK,Male,Frozen,0.21Grams,N/A,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,73,WHITE,Male,Frozen,0.16Grams,BENIGN,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,56,N/A,Male,Frozen,0.30Grams,BENIGN, myelolipoma ,Human,UAB,Hispanic
-ADRENAL,2016,56,N/A,Male,Frozen,0.44Grams,BENIGN, myelolipoma ,Human,UAB,Hispanic
-ADRENAL,2016,56,N/A,Male,Frozen,0.31Grams,BENIGN, myelolipoma ,Human,UAB,Hispanic
-ADRENAL,2016,21,WHITE,Male,Frozen,0.21Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,21,N/A,Male,Frozen,0.12Grams,NORMAL,N/A,Human,UAB,Hispanic
 ADRENAL,N/A,73,WHITE,Male,Frozen,0.44Grams,BENIGN, Pheochromocytoma,Human,UAB,Non-Hispanic
 ADRENAL,N/A,73,WHITE,Male,Frozen,0.23Grams,BENIGN, Pheochromocytoma,Human,UAB,Non-Hispanic
 ADRENAL,N/A,73,WHITE,Male,Frozen,0.2Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
@@ -167,39 +690,16 @@ ADRENAL,N/A,33,WHITE,Female,Frozen,0.20Grams,N/A,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,84,WHITE,Female,Frozen,0.38Grams,BENIGN,Pheochromocytoma  ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,84,WHITE,Female,Frozen,0.36Grams,BENIGN,Pheochromocytoma  ,Human,UAB,Non-Hispanic
 NEUROENDOCRINE,N/A,84,WHITE,Female,Frozen,0.19Grams,N/A,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,33,WHITE,Female,Frozen,0.20Grams,BENIGN, adenoma ,Human,UAB,Non-Hispanic
-ADRENAL,2016,33,WHITE,Female,Frozen,0.27Grams,BENIGN, adenoma ,Human,UAB,Non-Hispanic
-ADRENAL,2016,33,WHITE,Female,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,28,BLACK,Female,Frozen,0.31Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,66,WHITE,Female,Frozen,0.17Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,53,BLACK,Female,Frozen,0.10Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,35,BLACK,Female,Frozen,0.26Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,70,WHITE,Female,Frozen,0.82Grams,BENIGN, ADENOMA ,Human,UAB,Non-Hispanic
-ADRENAL,2016,70,WHITE,Female,Frozen,0.23Grams,N/A,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2016,40,BLACK,Female,Frozen,0.29Grams,BENIGN,  cortical adenoma,Human,UAB,Non-Hispanic
-ADRENAL,2016,40,BLACK,Female,Frozen,0.46Grams,BENIGN,  cortical adenoma,Human,UAB,Non-Hispanic
-ADRENAL,2016,40,BLACK,Female,Frozen,0.14Grams,N/A,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2017,81,WHITE,Male,Frozen,0.84Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,75,WHITE,Female,Frozen,1.16Grams,BENIGN, cortical adenoma ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,31,WHITE,Female,Frozen,0.80Grams,MALIGNANT, cortical carcinoma ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,31,WHITE,Female,Frozen,1.09Grams,MALIGNANT, cortical carcinoma ,Human,UAB,Non-Hispanic
-ADRENAL,2018,28,WHITE,Female,Frozen,0.66Grams,BENIGN, cortical ,Human,UAB,Non-Hispanic
 ADRENAL,N/A,27,WHITE,Male,Frozen,0.34Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2018,40,WHITE,Male,Frozen,1.10Grams,BENIGN, lipoma  ,Human,UAB,Non-Hispanic
-ADRENAL,2018,40,WHITE,Male,Frozen,0.26Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2019,60,BLACK,Male,Frozen,.18Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,48,WHITE,Male,Frozen,0.60Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 ADRENAL,N/A,48,WHITE,Male,Frozen,0.35Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-PERITONEUM,2019,22,WHITE,Male,Frozen,1.60Grams,MALIGNANT, oncocytic,Human,UAB,Non-Hispanic
 ADRENAL,N/A,47,BLACK,Female,Frozen,.37Grams,MALIGNANT, PHEOCHROMOCYTOMA,Human,UAB,Non-Hispanic
 ADRENAL,N/A,47,BLACK,Female,Frozen,0.20Grams,MALIGNANT, PHEOCHROMOCYTOMA,Human,UAB,Non-Hispanic
-ADRENAL,2019,27,WHITE,Male,Frozen,0.14Grams,N/A,N/A,Human,UAB,Non-Hispanic
-ADRENAL,2000,73,WHITE,Male,Frozen,.09 Grams,N/A,Adrenal with some pheochromocytoma seen,Human,UAB,Non-Hispanic
-ADRENAL,2000,64,WHITE,Female,Frozen,1.48Grams,N/A,Adrenocortical cortical carcinoma of adrenal,Human,UAB,Non-Hispanic
-ADRENAL,2000,67,OTHER,Female,Frozen,.13Grams,N/A,Adrenal cortical adenoma,Human,UAB,Hispanic
-ADRENAL,2000,67,OTHER,Female,Frozen,.22Grams,N/A,Adrenal cortical adenoma with borderNORMAL adrenal cortex,Human,UAB,Hispanic
-ADRENAL,2000,57,OTHER,Female,Frozen,.51Grams,N/A,Adrenocortical carcinoma,Human,UAB,Hispanic
-ADRENAL,2001,49,WHITE,Female,Frozen,.91 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,72,WHITE,Male,Frozen,0.35g,N/A,Normal Adrenal gland,Human,UAB,Non-Hispanic
 Retroperitoneal Mass,N/A,57,WHITE,Male,Frozen,0.6g,N/A,Myelolipoma of adrenal,Human,UAB,Non-Hispanic
 Retroperitoneal Mass,N/A,57,WHITE,Male,Frozen,0.6g,N/A,Myelolipoma of adrenal,Human,UAB,Non-Hispanic
@@ -208,63 +708,37 @@ Retroperitoneal Mass,N/A,57,WHITE,Male,Frozen,0.5g,N/A,Myelolipoma of adrenal,Hu
 Retroperitoneal Mass,N/A,57,WHITE,Male,Frozen,0.7g,N/A,Myelolipoma of adrenal,Human,UAB,Non-Hispanic
 Retroperitoneal Mass,N/A,57,WHITE,Male,Frozen,0.6g,N/A,Myelolipoma of adrenal,Human,UAB,Non-Hispanic
 Retroperitoneal Mass,N/A,57,WHITE,Male,Frozen,0.6g,N/A,Myelolipoma of adrenal,Human,UAB,Non-Hispanic
-ADRENAL,2002,60,WHITE,Male,Frozen,.6 Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
-ADRENAL,2002,60,WHITE,Male,Frozen,.8Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
-ADRENAL,2002,60,WHITE,Male,Frozen,.6 Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
-ADRENAL,2002,60,WHITE,Male,Frozen,.8Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
-ADRENAL,2002,60,WHITE,Male,Frozen,..8 Grams,N/A,"Mucinous Adenocarcinoma, Mets to Adrenal (hx colon & esophageal CA)",Human,UAB,Non-Hispanic
 ADRENAL,N/A,52,WHITE,Female,Frozen,2.84 Grams,N/A,Myelolipoma,Human,UAB,Non-Hispanic
 ADRENAL,N/A,52,WHITE,Female,Frozen,2.21 Grams,N/A,Myelolipoma,Human,UAB,Non-Hispanic
 ADRENAL,N/A,52,WHITE,Female,Frozen,1.22 Grams,N/A,Myelolipoma,Human,UAB,Non-Hispanic
 ADRENAL,N/A,47,WHITE,Female,Frozen,8 .0 Grams Banked,N/A,Myelolipoma of adrenal,Human,UAB,Non-Hispanic
-ADRENAL,2002,53,WHITE,Male,Frozen,1 Gram,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,43,WHITE,Male,Frozen,1.94 Grams,N/A,Pheochromocytoma; right.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,43,WHITE,Male,Frozen,3.42 Grams,N/A,Pheochromocytoma; right.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,42,WHITE,Female,Frozen,2.78 Grams,N/A,Pheochromocytoma; right.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,71,WHITE,Female,Frozen,3.62 grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,40,WHITE,Female,Frozen,2.3 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,40,WHITE,Female,Frozen,2.3Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
-ADRENAL,2003,38,WHITE,Female,Frozen,.63 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
-ADRENAL,2003,38,WHITE,Female,Frozen,.59 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
-ADRENAL,2003,33,WHITE,Female,Frozen,5.3 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
-ADRENAL,2003,33,WHITE,Female,Frozen,3.5 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,59,WHITE,Female,Frozen,.80Grams,N/A,Normal Adrenal gland,Human,UAB,Non-Hispanic
-ADRENAL,2003,57,BLACK,Male,Frozen,.48 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
-ADRENAL,2003,57,BLACK,Male,Frozen,.52 Grams,N/A,Adrenal cortical adenoma.,Human,UAB,Non-Hispanic
-ADRENAL,2004,27,WHITE,Female,Frozen,1.46 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
-ADRENAL,2004,27,WHITE,Female,Frozen,1.34 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
-ADRENAL,2004,27,WHITE,Female,Frozen,1.11 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
-ADRENAL,2004,27,WHITE,Female,Frozen,1.81 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,65,WHITE,Male,Frozen,6.06 Grams,N/A,Atypical lipoma; myelolipoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,65,WHITE,Male,Frozen,8.01 Grams,N/A,Atypical lipoma; myelolipoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,51,N/A,Female,Frozen,1 Cassette,N/A,Hematoma of adrenal.,Human,UAB,Hispanic
 ADRENAL,N/A,86,WHITE,Female,Frozen,2 Cassettes,N/A,Pheochromocytoma; hemorrhage.,Human,UAB,Non-Hispanic
-ADRENAL,1994,61,WHITE,Female,Frozen,2 Cassettes,N/A,Mets. pheochromocytoma to liver.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,0,N/A,,Frozen,.74 Grams,N/A,Extra adrenal paraganglioma.,Human,UAB,Hispanic
 ADRENAL,N/A,0,N/A,,Frozen,.69 Grams,N/A,Extra adrenal paraganglioma.,Human,UAB,Hispanic
 ADRENAL,N/A,0,N/A,,Frozen,1.05 Grams,N/A,Extra adrenal paraganglioma.,Human,UAB,Hispanic
 ADRENAL,N/A,44,WHITE,Male,Frozen,.94 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,0,WHITE,Unknown,Frozen,1 cass,N/A,"Adrenal, nl.",Human,UAB,Non-Hispanic
-ADRENAL,1995,62,OTHER,Female,Frozen,3.4 Grams,N/A,Adrenal cortical neoplasm; undetermined malignancy.,Human,UAB,Hispanic
-ADRENAL,1995,68,WHITE,Male,Frozen,6 Grams,N/A,Adrenal cortical neoplasm; undetermined malignancy.,Human,UAB,Non-Hispanic
-ADRENAL,1995,68,WHITE,Male,Frozen,4.5 Grams,N/A,Adrenal cortical neoplasm; undetermined malignancy.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,64,WHITE,Male,Frozen,.08 Grams,N/A,Adrenal with mets. tumor of unknown.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,64,WHITE,Male,Frozen,.08 Grams,N/A,Adrenal with mets. tumor of unknown.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,64,WHITE,Male,Frozen,.12 Grams,N/A,Adrenal with mets. tumor of unknown.,Human,UAB,Non-Hispanic
-ADRENAL,1996,52,WHITE,Male,Frozen,2.75 Grams,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,62,WHITE,Female,Frozen,1 Cassette,N/A,Adrenal neoplasm.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,62,WHITE,Female,Frozen,1 Cassette,N/A,Adrenal neoplasm.,Human,UAB,Non-Hispanic
-ADRENAL,1997,73,WHITE,Male,Frozen,1.58 Grams,N/A,Adrenal; autolytic.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,46,WHITE,Female,Frozen,6.1  Grams,N/A,Adrenal Myelolipoma,Human,UAB,Non-Hispanic
-ADRENAL,1998,47,BLACK,Male,Frozen,1.35 Gramsbanked,N/A,Nodular Adrenal,Human,UAB,Non-Hispanic
 ADRENAL,N/A,15,WHITE,Female,Frozen,1 Cassette,N/A,Mets. adrenal cortical carcinoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,15,WHITE,Female,Frozen,1 Cassette,N/A,Mets. adrenal cortical carcinoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,15,WHITE,Female,Frozen,1 Cassette,N/A,Mets. adrenal cortical carcinoma.,Human,UAB,Non-Hispanic
 ADRENAL,N/A,50,WHITE,Male,Frozen,1 Cassette,N/A,Pheochromocytoma.,Human,UAB,Non-Hispanic
-ADRENAL,1998,57,WHITE,Male,Frozen,1.7Grams,N/A,Normal Adrenal (from RCC),Human,UAB,Non-Hispanic
 ADRENAL,N/A,39,WHITE,Female,Frozen,1 Cassette,N/A,Pheochromocytoma of adrenal with ganglioneuroma differential; focal.,Human,UAB,Non-Hispanic
-ADRENAL,1999,70,WHITE,Male,Frozen,,N/A,Adrenal -NORMAL (from cortincal adenoma & RCC of kidney),Human,UAB,Non-Hispanic
-ADRENAL,1999,70,WHITE,Male,Frozen,,N/A,Adrenal Cortinal Adenoma w/border NL adrenal (from RCC of kidney),Human,UAB,Non-Hispanic
 ADRENAL,N/A,50,N/A,Female,Frozen,.29grams,N/A,Pheochromocytoma of adrenal  w/ border adrenal cortex,Human,UAB,Hispanic
 ADRENAL,N/A,44,WHITE,Female,Frozen,.6grams,N/A,Pheochromocytoma of adrenal  .,Human,UAB,Non-Hispanic
 ADRENAL,N/A,49,WHITE,Female,Frozen,.41grams,N/A,Hyperplastic adrenal cortex( from  pheochromocyoma),Human,UAB,Non-Hispanic
@@ -280,9 +754,6 @@ BONE MARROW,N/A,24,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow (~5-30%) wi
 BONE MARROW,N/A,24,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow (~5-30%) with trilineage hematopoiesis  ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,24,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow (~5-30%) with trilineage hematopoiesis  ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,69,WHITE,Female,Frozen,Grams,N/A,"Acute Lymphoblastic Leukemia, precursor B-cell type, blasts > 87%",Human,UAB,Non-Hispanic
-BONE MARROW,2006,55,OTHER,Male,Frozen,Grams,N/A,Cellular (~ 50%) bone marrow with trilineage hematopoiesis,Human,UAB,Hispanic
-BONE MARROW,2006,55,OTHER,Male,Frozen,Grams,N/A,Cellular (~ 50%) bone marrow with trilineage hematopoiesis,Human,UAB,Hispanic
-BONE MARROW,2006,55,OTHER,Male,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Hispanic
 BONE MARROW,N/A,25,WHITE,Female,Frozen,1.0ML,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,43,BLACK,Male,Frozen,2ML,N/A,"Hypocellular, left shifted marrow consistent with recovering marrow",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,43,BLACK,Male,Frozen,2ML,N/A,"Hypocellular, left shifted marrow consistent with recovering marrow",Human,UAB,Non-Hispanic
@@ -295,23 +766,12 @@ BONE MARROW,N/A,24,WHITE,Female,Frozen,0.5ML,N/A,Variably cellular bone marrow,H
 BONE MARROW,N/A,22,WHITE,Male,Frozen,ML,N/A,Cellular bone marrow (40-70%) with erythroid predominance,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,24,WHITE,Female,Frozen,1.8ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,58,WHITE,Female,Frozen,1.8ML,N/A,Variably hyporcellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,42,OTHER,Female,Frozen,0.5ML,N/A,"Acute lymphoblastic leukemia, precursor B-cell type",Human,UAB,Hispanic
 BONE MARROW,N/A,42,OTHER,Female,Frozen,Grams,N/A, Persistent acute lymphoblastic leukemia ,Human,UAB,Hispanic
-BONE MARROW,2006,44,OTHER,Male,Frozen,Grams,N/A,Hypoplasia megakaryocytic,Human,UAB,Hispanic
-BONE MARROW,2006,44,OTHER,Male,Frozen,Grams,N/A,Hypoplasia megakaryocytic,Human,UAB,Hispanic
-BONE MARROW,2006,50,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,50,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,50,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,42,OTHER,Female,Frozen,2ML,N/A,Relapsed precursor B-lymphoblastic leukemia ,Human,UAB,Hispanic
-BONE MARROW,2006,54,BLACK,Male,Frozen,Grams,N/A,T lymphoblastic,Human,UAB,Non-Hispanic
-BONE MARROW,2006,54,BLACK,Male,Frozen,Grams,N/A,T lymphoblastic,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,54,BLACK,Male,Frozen,Grams,N/A,T lymphoblastic,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,54,BLACK,Male,Frozen,Grams,N/A,T lymphoblastic,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,36,WHITE,Male,Frozen,ML,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,71,WHITE,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2006,65,WHITE,Female,Frozen,Grams,N/A,"Remission marrow, No morphologic evidence of malignancy",Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,73,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,25,BLACK,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,25,BLACK,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
@@ -322,26 +782,11 @@ BONE MARROW,N/A,57,WHITE,Male,Frozen,Grams,N/A,Refactory anemia,Human,UAB,Non-Hi
 BONE MARROW,N/A,66,WHITE,Female,Frozen,Grams,N/A,Acute erythroid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,79,WHITE,Male,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,67,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,63,WHITE,Male,Frozen,Grams,N/A,Myelodysplastic syndrome/Refractory Anemia with Excess Blasts ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,73,WHITE,Female,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,61,WHITE,Female,Frozen,Grams,N/A,Normal morphology and cellula rarity,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Male,Frozen,Grams,N/A,Variable cellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Male,Frozen,Grams,N/A,Variable cellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,57,WHITE,Male,Frozen,Grams,N/A,Refractory anemia   with excess blasts     ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,57,WHITE,Male,Frozen,Grams,N/A,Refractory anemia   with excess blasts     ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,60,WHITE,Male,Frozen,Grams,N/A,A distinct population of myeloid blasts ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,45,WHITE,Female,Frozen,Grams,N/A,Acute erythroid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,67,WHITE,Male,Frozen,Grams,N/A,50 to 60% cellular marrow with pockets of blast,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,44,BLACK,Female,Frozen,Grams,N/A,Residual Leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,44,BLACK,Female,Frozen,Grams,N/A,Residual Leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2006,73,WHITE,Female,Frozen,Grams,N/A,"Variably cellular marrow,NORMAL morphology",Human,UAB,Non-Hispanic
-BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
-BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
-BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
-BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,27,WHITE,Male,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,38,WHITE,Female,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,63,WHITE,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,33,OTHER,Male,Frozen,Grams,N/A,Acute Promyelocytic Leukemia Blast type(III),Human,UAB,Hispanic
 BONE MARROW,N/A,38,WHITE,Female,Frozen,Grams,N/A,Hypocellular bone marrow with tri-lineage hematopoiesis and erythroid predominance,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,65,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow with tri-lineage hematopoiesis and erythroid predominance,Human,UAB,Non-Hispanic
@@ -351,36 +796,16 @@ BONE MARROW,N/A,49,OTHER,Female,Frozen,Grams,N/A,Cellular marrow with tri-lineag
 BONE MARROW,N/A,49,OTHER,Female,Frozen,Grams,N/A,Cellular marrow with tri-lineage hematopoiesis ,Human,UAB,Hispanic
 BONE MARROW,N/A,49,OTHER,Female,Frozen,Grams,N/A,Cellular marrow with tri-lineage hematopoiesis ,Human,UAB,Hispanic
 BONE MARROW,N/A,49,OTHER,Female,Frozen,Grams,N/A,Cellular marrow with tri-lineage hematopoiesis ,Human,UAB,Hispanic
-BONE MARROW,2006,44,BLACK,Female,Frozen,ML,N/A,"Acute myeloid leukemia, recurrent",Human,UAB,Non-Hispanic
-BONE MARROW,2006,44,BLACK,Female,Frozen,ML,N/A,"Acute myeloid leukemia, recurrent",Human,UAB,Non-Hispanic
-BONE MARROW,2006,70,WHITE,Male,Frozen,ML,N/A,"Acute myeloblastic leukemia, minimally differentiated ",Human,UAB,Non-Hispanic
-BONE MARROW,2006,38,WHITE,Female,Frozen,Grams,N/A,AML.,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,27,WHITE,Male,Frozen,,N/A,"Acute myelogenous leukemia,",Human,UAB,Non-Hispanic
-BONE MARROW,2006,70,WHITE,Male,Frozen,ML,N/A,"Acute myeloblastic leukemia, minimally differentiated ",Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,53,BLACK,Female,Frozen,ML,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,75,WHITE,Male,Frozen,ML,N/A,Residual acute leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2006,67,WHITE,Male,Frozen,ML,N/A,Relapsed/persistent acute leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,ML,N/A,Hypocellular (<5%) bone marrow consistent with treatment effect,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,ML,N/A,Hypocellular (<5%) bone marrow consistent with treatment effect,Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,Hypocellular (5-10%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular (~90%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular (~90%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,58,WHITE,Female,Frozen,Grams,N/A,Hypercellular (~90%) bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,32,BLACK,Female,Frozen,ML,N/A,Cellular (60%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,62,WHITE,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,53,WHITE,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,34,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,28,OTHER,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,28,OTHER,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
-BONE MARROW,2007,58,WHITE,Female,Frozen,Grams,N/A,Cellular bone marrow (50-60%) with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,44,WHITE,Female,Frozen,Grams,N/A,Marked hypocellular bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,67,WHITE,Male,Frozen,Grams,N/A,Acute myeloblastic leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,57,WHITE,Male,Frozen,Grams,N/A,Acute myeloblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,44,WHITE,Female,Frozen,Grams,N/A,Normal bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,72,WHITE,Male,Frozen,Grams,N/A,Tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
@@ -388,38 +813,19 @@ BONE MARROW,N/A,40,BLACK,Female,Frozen,Grams,N/A,Hypocellular bone marrow,Human,
 BONE MARROW,N/A,40,BLACK,Female,Frozen,Grams,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,27,WHITE,Male,Frozen,1ML,N/A,Relapsed acute myeloid leukemia ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,56,BLACK,Male,Frozen,1.8ML,N/A,Tri-lineage hematopoiesis with erythroid predominance,Human,UAB,Non-Hispanic
-BONE MARROW,2007,59,BLACK,Female,Frozen,1ML,N/A,Normocellular morphology bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,59,WHITE,Male,Frozen,2ML,N/A,Variably cellular (10-50%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,27,BLACK,Female,Frozen,1ML,N/A,Persistent/relapsed acute myeloid leukemia ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,0.5ML,N/A,Normal hematopoietic elements favor recovery,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,0.1ML,N/A,Normal hematopoietic elements favor recovery,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,56,BLACK,Male,Frozen,2ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,62,WHITE,Female,Frozen,2ML,N/A,Marrow is (40-60%) cellular,Human,UAB,Non-Hispanic
-BONE MARROW,2007,49,WHITE,Female,Frozen,0.5ML,N/A,Markedly hypocellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,53,WHITE,Female,Frozen,2ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,68,WHITE,Male,Frozen,0.5ML,N/A,Slightly hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,38,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,38,WHITE,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,40,BLACK,Female,Frozen,1.5ML,N/A,Marked hypocellular (<5%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,60,WHITE,Female,Frozen,1.5ML,N/A,Cellular (30-40%) bone marrow with mild dysmegakaryopoiesis and variable myelofibrosis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,43,WHITE,Female,Frozen,1ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,43,WHITE,Female,Frozen,0.5ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,27,BLACK,Female,Frozen,Grams,N/A,Variably hypercellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,27,BLACK,Female,Frozen,Grams,N/A,Variably hypercellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,72,WHITE,Male,Frozen,Grams,N/A,"Acute myeloid leukemia, relapsed blast",Human,UAB,Non-Hispanic
-BONE MARROW,2007,43,WHITE,Female,Frozen,1ML,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,48,WHITE,Male,Frozen,1ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,67,WHITE,Male,Frozen,0.5Grams,N/A,Normocellular marrow (50-60%) with trilineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,72,WHITE,Male,Frozen,Grams,N/A,"Residual leukemia, variably cellular marrow (15-50%) with clusters of blasts",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,55,BLACK,Male,Frozen,2ML,N/A,Recurrence of leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,55,BLACK,Male,Frozen,1Grams,N/A,Recurrence of leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,1.8ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,70,WHITE,Male,Frozen,0.5ML,N/A,"Residual leukemia, myeloid leukemia ",Human,UAB,Non-Hispanic
-BONE MARROW,2007,70,WHITE,Male,Frozen,0.5ML,N/A,"Residual leukemia, myeloid leukemia ",Human,UAB,Non-Hispanic
-BONE MARROW,2007,52,WHITE,Male,Frozen,1.8ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,27,BLACK,Female,Frozen,0.7ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,58,OTHER,Male,Frozen,1.0ML,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,58,OTHER,Male,Frozen,0.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
@@ -429,271 +835,107 @@ BONE MARROW,N/A,59,WHITE,Male,Frozen,Grams,N/A,Slightly hypercellular (50-60%) b
 BONE MARROW,N/A,64,WHITE,Female,Frozen,0.08Grams,N/A,"Acute myeloid leukemia, blasts >70%",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,64,WHITE,Female,Frozen,0.08Grams,N/A,"Acute myeloid leukemia, blasts >70%",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,32,BLACK,Female,Frozen,Grams,N/A,"Acute myeloid leukemia, blasts >   87%.",Human,UAB,Non-Hispanic
-BONE MARROW,2007,53,WHITE,Male,Frozen,1.0ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,53,WHITE,Male,Frozen,1.0ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,38,WHITE,Female,Frozen,0.7ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,63,BLACK,Female,Frozen,1ML,N/A,Variably cellular (10 – 40%) marrow with slightly   increased blasts ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,70,WHITE,Male,Frozen,1.5ML,N/A,Cellular particles with erythroid hyperplasia   and mild erythroid dysplasia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,31,WHITE,Female,Frozen,0.5ML,N/A,Cellular bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,62,WHITE,Male,Frozen,2ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,37,OTHER,Male,Frozen,2ML,N/A,Hypercellular marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,59,WHITE,Male,Frozen,2ML,N/A,Hypocellular marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,44,BLACK,Female,Frozen,0.8ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,44,BLACK,Female,Frozen,0.5ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,44,BLACK,Female,Frozen,1ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,68,OTHER,Male,Frozen,1.0ML,N/A,Variably cellular (5% to 30%) bone marrow.,Human,UAB,Hispanic
-BONE MARROW,2007,68,OTHER,Male,Frozen,2.0Grams,N/A,Variably cellular (5% to 30%) bone marrow.,Human,UAB,Hispanic
-BONE MARROW,2007,68,OTHER,Male,Frozen,1.5ML,N/A,Variably cellular (5% to 30%) bone marrow.,Human,UAB,Hispanic
-BONE MARROW,2007,37,OTHER,Male,Frozen,1.0ML,N/A,Hypercellular bone marrow,Human,UAB,Hispanic
-BONE MARROW,2007,37,OTHER,Male,Frozen,0.5Grams,N/A,Hypercellular bone marrow,Human,UAB,Hispanic
-BONE MARROW,2007,55,BLACK,Female,Frozen,0.5Grams,N/A,Persistent acute myeloid leukemia (approximately 70% of marrow replaced by blasts). ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,55,BLACK,Female,Frozen,0.9Grams,N/A,Persistent acute myeloid leukemia (approximately 70% of marrow replaced by blasts). ,Human,UAB,Non-Hispanic
-BONE MARROW,2008,49,WHITE,Female,Frozen,1.5ML,N/A,Persistent/relapsed acute myeloid leukemia   (blast: ~75%) in a cellular (5-30%) bone marrow.,Human,UAB,Non-Hispanic
-BONE MARROW,2008,60,WHITE,Female,Frozen,1.5ML,N/A,Variably cellular (10-40%) bone marrow with trilineage hematopoiesis.,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,61,WHITE,Female,Frozen,,N/A,Hyploplasia granulocytic AML ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,BLACK,Male,Frozen,,N/A,"AML...,",Human,UAB,Non-Hispanic
-BONE MARROW,2007,47,BLACK,Male,Frozen,,N/A,"AML w/ thrombocytopenia
-pt has had chemotherapy...,",Human,UAB,Non-Hispanic
-BONE MARROW,2007,64,BLACK,Female,Frozen,,N/A,AML Variably hypocellular (<5 to 15%) bone marrow without morphologic   evidence of acute leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,43,WHITE,Female,Frozen,,N/A,"Hyperplasia erythroid, AML",Human,UAB,Non-Hispanic
-BONE MARROW,2007,42,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,,N/A,AML,Human,UAB,Non-Hispanic
-BONE MARROW,2007,64,WHITE,Female,Frozen,,N/A,"AML...,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,67,OTHER,Male,Frozen,Grams,N/A,Slight increase in early myeloid cells and blasts ,Human,UAB,Hispanic
 BONE MARROW,N/A,67,OTHER,Male,Frozen,Grams,N/A,Slight increase in early myeloid cells and blasts ,Human,UAB,Hispanic
 BONE MARROW,N/A,38,WHITE,Female,Frozen,Grams,N/A,Normocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,61,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,55,WHITE,Female,Frozen,0.5ML,N/A,Varibably cellular marrow 30-60%,Human,UAB,Non-Hispanic
-BONE MARROW,2006,31,WHITE,Male,Frozen,Grams,N/A,Increased frequency of immature B lineage cells ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,49,WHITE,Female,Frozen,0.5Grams,N/A,"Mild dysgranulopoiesis, normocellular marrow ",Human,UAB,Non-Hispanic
-BONE MARROW,2007,50,WHITE,Male,Frozen,Grams,N/A,Persistent/relapsed acute myeloblastic leukemia ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,WHITE,Male,Frozen,Grams,N/A,Blasts in the bone marrow > 25%.,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,BLACK,Female,Frozen,0.05Grams,N/A,TypeIII blast,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,BLACK,Female,Frozen,0.52Grams,N/A,TypeIII blast,Human,UAB,Non-Hispanic
-BONE MARROW,2007,41,BLACK,Female,Frozen,1ML,N/A,TypeIII blast,Human,UAB,Non-Hispanic
-BONE MARROW,2007,33,OTHER,Male,Frozen,0.5Grams,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
-BONE MARROW,2007,66,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,70,WHITE,Male,Frozen,1ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,75,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,82,BLACK,Female,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,70,WHITE,Male,Frozen,1ML,N/A,Lymphomatous infiltration (predominantly small cells)of the bone ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,51,WHITE,Male,Frozen,1.8ML,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,WHITE,Male,Frozen,Grams,N/A,Normocellular Marrow with Trilineal Hematopoeisis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,81,WHITE,Male,Frozen,Grams,N/A,"Lymphomatous infiltrates, B-cell type",Human,UAB,Non-Hispanic
-BONE MARROW,2007,50,N/A,Male,Frozen,0.5ML,N/A,Slightly hypercellular (50 to 60%) marrow with markedly decreased megakaryocytes,Human,UAB,Hispanic
-BONE MARROW,2007,79,WHITE,Male,Frozen,0.8ML,N/A,Slight hypercellular bone marrow with erythroid hyperplasia ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,72,OTHER,Male,Frozen,Grams,N/A,Hypercellular Marrow (~80-90%) with marked megaloblastic changes ,Human,UAB,Hispanic
 BONE MARROW,N/A,79,BLACK,Female,Frozen,Grams,N/A,Dysplasia erythroid ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,65,OTHER,Female,Frozen,Grams,N/A,Normocellular marrow with mild plasmacytosis (pt has lupus),Human,UAB,Hispanic
 BONE MARROW,N/A,63,WHITE,Female,Frozen,Grams,N/A,Nomocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,64,WHITE,Male,Frozen,ML,N/A,Hypoplasia of bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,49,OTHER,Female,Frozen,ML,N/A,Acute Promyelocytic Leukemia type III blast,Human,UAB,Hispanic
-BONE MARROW,2006,49,OTHER,Female,Frozen,ML,N/A,Acute Promyelocytic Leukemia type III blast,Human,UAB,Hispanic
-BONE MARROW,2007,55,WHITE,Male,Frozen,Grams,N/A,Cellular (30-40%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,34,WHITE,Female,Frozen,0.5ML,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,22,WHITE,Male,Frozen,2ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,57,BLACK,Female,Frozen,1.0ML,N/A,TypeIII blast,Human,UAB,Non-Hispanic
-BONE MARROW,2007,57,BLACK,Female,Frozen,1ML,N/A,Variably cellular (30-60%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,33,OTHER,Female,Frozen,2ML,N/A,Variably cellular (50–90%) bone marrow ,Human,UAB,Hispanic
-BONE MARROW,2007,33,OTHER,Female,Frozen,1.5ML,N/A,Variably cellular (50–90%) bone marrow ,Human,UAB,Hispanic
 BONE MARROW,N/A,66,WHITE,Male,Frozen,1.1ML,N/A,Variable cellular marrow (15-70%) with trilineageNORMAL hematopoiesis  ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,49,WHITE,Female,Frozen,1.5ML,N/A,Slight hypocellular marrow with increased megakaryocytes ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,23,WHITE,Male,Frozen,ML,N/A,Variable cellular (20-50%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,33,WHITE,Female,Frozen,Grams,N/A,Relapsed acute promyelocytic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,33,WHITE,Female,Frozen,Grams,N/A,Variably cellular (30-50%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,BLACK,Male,Frozen,ML,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,49,BLACK,Female,Frozen,Grams,N/A,Chronic lymphocytic leukemia with replacement of marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,69,WHITE,Female,Frozen,Grams,N/A,Marrow showing lymphoid aggregates,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Hypocellular bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,53,WHITE,Female,Frozen,0.9ML,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,WHITE,Female,Frozen,Grams,N/A,Normocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,60,WHITE,Female,Frozen,ML,N/A,Small lymphocytic lymphoma (SLL/CLL) with increased prolymphocytes ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,60,WHITE,Female,Frozen,ML,N/A,Small lymphocytic lymphoma (SLL/CLL) with increased prolymphocytes ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,79,OTHER,Female,Frozen,Grams,N/A,Chronic thrombocytopenia,Human,UAB,Hispanic
 BONE MARROW,N/A,24,BLACK,Male,Frozen,Grams,N/A,Hypoplasia,Human,UAB,Non-Hispanic
-BONE MARROW,2006,47,BLACK,Male,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,24,BLACK,Male,Frozen,Grams,N/A,Hypoplasia bone marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,24,BLACK,Male,Frozen,Grams,N/A,Hypoplasia bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,47,BLACK,Male,Frozen,Grams,N/A,Slightly hypocellular Marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,47,BLACK,Female,Frozen,ML,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,68,WHITE,Female,Frozen,Grams,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,68,WHITE,Female,Frozen,Grams,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,68,WHITE,Female,Frozen,Grams,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,BLACK,Male,Frozen,Grams,N/A,Hypocellular bone marrow with erythroid predominance,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,BLACK,Male,Frozen,Grams,N/A,Hypocellular bone marrow with erythroid predominance,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,BLACK,Male,Frozen,Grams,N/A,Hypocellular bone marrow with erythroid predominance,Human,UAB,Non-Hispanic
-BONE MARROW,2006,28,N/A,Female,Frozen,Grams,N/A,Hypocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Hispanic
 BONE MARROW,N/A,61,OTHER,Female,Frozen,ML,N/A,Chronic myeloproliferative disease,Human,UAB,Hispanic
 BONE MARROW,N/A,24,BLACK,Male,Frozen,ML,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,48,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow with one small pockets of hematopiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,47,BLACK,Female,Frozen,1.8ML,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,47,BLACK,Male,Frozen,Grams,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,64,OTHER,Female,Frozen,2ML,N/A,Cellular (30-50%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Hispanic
-BONE MARROW,2007,46,OTHER,Female,Frozen,1.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
-BONE MARROW,2007,48,WHITE,Female,Frozen,0.5ML,N/A,Inadequate for diagnosis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,47,BLACK,Male,Frozen,1.8Grams,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,47,WHITE,Female,Frozen,0.5ML,N/A,Slightly hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,60,OTHER,Male,Frozen,0.5ML,N/A,Variable cellular (<5% - 40%) marrow withNORMAL hematopoietic elements,Human,UAB,Hispanic
-BONE MARROW,2007,61,WHITE,Male,Frozen,0.8ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,61,WHITE,Male,Frozen,1.0ML,N/A,Variably cellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,85,WHITE,Male,Frozen,ML,N/A,Cellular (30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,85,WHITE,Male,Frozen,ML,N/A,Cellular (30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,68,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow with no lymphoid aggregates,Human,UAB,Non-Hispanic
-BONE MARROW,2007,59,OTHER,Male,Frozen,ML,N/A,Variably cellular (10-40%) bone marrow with tri-lineage   hematopoiesis ,Human,UAB,Hispanic
-BONE MARROW,2006,67,WHITE,Male,Frozen,ML,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,28,BLACK,Male,Frozen,Grams,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,50,OTHER,Male,Frozen,Grams,N/A,Normocellular Marrow; 1 benign lymphoid aggregate,Human,UAB,Hispanic
-BONE MARROW,2007,50,N/A,Male,Frozen,2ML,N/A,Hypoplasia bone marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,23,WHITE,Male,Frozen,Grams,N/A,Type III blast,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,23,WHITE,Male,Frozen,Grams,N/A,Type III blast,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,71,WHITE,Male,Frozen,,N/A,"likely leukemia...,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,71,WHITE,Male,Frozen,,N/A,"likely leukemia...,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,69,WHITE,Female,Frozen,,N/A,"leukemia.,",Human,UAB,Non-Hispanic
-BONE MARROW,2006,69,WHITE,Male,Frozen,Grams,N/A,Acute megakaryoblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,69,WHITE,Male,Frozen,Grams,N/A,Acute megakaryoblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,69,WHITE,Male,Frozen,Grams,N/A,Acute megakaryoblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,24,WHITE,Female,Frozen,Grams,N/A,Precursor B   lymphoblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,24,WHITE,Female,Frozen,Grams,N/A,Precursor B   lymphoblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,24,WHITE,Female,Frozen,Grams,N/A,Precursor B   lymphoblastic leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,31,WHITE,Female,Frozen,0.5ML,N/A,70% of blasts myeloperoxidase(MPO) positive,Human,UAB,Non-Hispanic
-BONE MARROW,2007,31,WHITE,Female,Frozen,0.5ML,N/A,70% of blasts myeloperoxidase(MPO) positive,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,77,WHITE,Male,Frozen,1.0ML,N/A,Normal Marrow Morphology and cellularity,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,77,WHITE,Male,Frozen,1.0ML,N/A,Normal Marrow Morphology and cellularity,Human,UAB,Non-Hispanic
-BONE MARROW,2006,71,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,71,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,55,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow (40-50%) with increased megakaryocytes,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,55,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow (40-50%) with increased megakaryocytes,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,WHITE,Male,Frozen,0.5ML,N/A,Normocellular marrow with small lymphoid aggregates ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,53,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,OTHER,Female,Frozen,1ML,N/A,Hypercellular marrow,Human,UAB,Hispanic
-BONE MARROW,2007,76,OTHER,Male,Frozen,1.5ML,N/A,Hypercellular (~75%) bone marrow with trilineage hematopoiesis ,Human,UAB,Hispanic
 BONE MARROW,N/A,41,WHITE,Male,Frozen,0.5ML,N/A,Normocellular marrow and morphology,Human,UAB,Non-Hispanic
-BONE MARROW,2007,87,WHITE,Male,Frozen,Grams,N/A,Variably cellular (10-40%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,72,WHITE,Male,Frozen,Grams,N/A,Normocellular bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,71,WHITE,Male,Frozen,Grams,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,63,BLACK,Female,Frozen,Grams,N/A,Acellular bone marrow inadequate for diagnosis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,64,WHITE,Male,Frozen,Grams,N/A,Cellular bone marrow (20-40%) with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,69,BLACK,Male,Frozen,Grams,N/A,Malignant lymphoma,Human,UAB,Non-Hispanic
-BONE MARROW,2006,69,BLACK,Male,Frozen,Grams,N/A,Malignant lymphoma,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
-BONE MARROW,2006,76,WHITE,Male,Frozen,Grams,N/A,No evidence of monoclonal population of the lymphoid cells.,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,63,WHITE,Male,Frozen,Grams,N/A,"gram-neg sepsis, resp failure, B-cell lymphoma",Human,UAB,Non-Hispanic
-BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Scant marrow particles with minimal dyserythropoiesis and NRBC with multiple Howell-Jolly bodies; No obvious infiltrative process,Human,UAB,Non-Hispanic
-BONE MARROW,2007,49,WHITE,Female,Frozen,2ML,N/A,Variably cellular   (5-90%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,47,WHITE,Male,Frozen,Grams,N/A,Bilateral lymphoid aggregates,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,46,WHITE,Female,Frozen,0.9ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,48,WHITE,Female,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,BLACK,Male,Frozen,0.5ML,N/A,Non-diagnostic marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,30,BLACK,Male,Frozen,2ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,30,BLACK,Male,Frozen,1ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,30,BLACK,Male,Frozen,2ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,22,WHITE,Male,Frozen,Grams,N/A,Variable cellular (30-50%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,51,BLACK,Female,Frozen,Grams,N/A,"Variable cellularity,NORMAL marrow elements, small lymphoid aggregates",Human,UAB,Non-Hispanic
-BONE MARROW,2006,66,WHITE,Male,Frozen,Grams,N/A,Bone marrow positive for lymphomatous infiltrates,Human,UAB,Non-Hispanic
-BONE MARROW,2006,66,WHITE,Male,Frozen,Grams,N/A,Bone marrow positive for lymphomatous infiltrates,Human,UAB,Non-Hispanic
-BONE MARROW,2006,78,WHITE,Female,Frozen,Grams,N/A,Normocellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,72,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,50,WHITE,Male,Frozen,,N/A,"Mantle cell lymphoma,",Human,UAB,Non-Hispanic
-BONE MARROW,2006,46,N/A,Male,Frozen,Grams,N/A,Dysplasia erythroid ,Human,UAB,Hispanic
 BONE MARROW,N/A,52,OTHER,Male,Frozen,Grams,N/A,"Normocellular marrow, negative for malignancy",Human,UAB,Hispanic
-BONE MARROW,2006,52,WHITE,Female,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,74,BLACK,Female,Frozen,Grams,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,74,BLACK,Female,Frozen,Grams,N/A,Normocellular bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,0,N/A,Male,Frozen,Grams,N/A,Normocellular bone marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,52,WHITE,Male,Frozen,Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,52,WHITE,Female,Frozen,Grams,N/A,Cellular marrow with tri lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,47,OTHER,Male,Frozen,Grams,N/A,Hypoplasia,Human,UAB,Hispanic
-BONE MARROW,2006,47,OTHER,Male,Frozen,Grams,N/A,Hypoplasia,Human,UAB,Hispanic
 BONE MARROW,N/A,48,OTHER,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Hispanic
 BONE MARROW,N/A,45,OTHER,Male,Frozen,,N/A,Non-Hodgkins lymphoma.,Human,UAB,Hispanic
 BONE MARROW,N/A,60,OTHER,Female,Frozen,ML,N/A,Tri-lineage hematopoiesis,Human,UAB,Hispanic
-BONE MARROW,2006,68,WHITE,Male,Frozen,ML,N/A,Cellular (10-30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,68,WHITE,Female,Frozen,Grams,N/A,Variably cellular (20-40%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,76,WHITE,Male,Frozen,Grams,N/A,Tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,49,WHITE,Female,Frozen,,N/A,"Low grade follicular non Hodgkins lymphoma...,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,49,WHITE,Female,Frozen,,N/A,"Low grade follicular non Hodgkins lymphoma...,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,49,WHITE,Female,Frozen,,N/A,"Low grade follicular non Hodgkins lymphoma...,",Human,UAB,Non-Hispanic
-BONE MARROW,2006,56,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow (80-85%) with lymphoma ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,56,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow (80-85%) with lymphoma ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,65,WHITE,Male,Frozen,ML,N/A,Cellular (30%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Hypocellular bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,72,WHITE,Female,Frozen,Grams,N/A,Variably cellular marrow with mild dyserythropoiesis ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,72,WHITE,Female,Frozen,Grams,N/A,Variably cellular marrow with mild dyserythropoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,63,OTHER,Male,Frozen,,N/A,"Non-Hodgkins B-cell Lymphoma,",Human,UAB,Hispanic
-BONE MARROW,2007,73,WHITE,Male,Frozen,2ML,N/A,Varibably cellular marrow 10-50%,Human,UAB,Non-Hispanic
-BONE MARROW,2007,73,WHITE,Male,Frozen,1ML,N/A,Varibably cellular marrow 10-50%,Human,UAB,Non-Hispanic
-BONE MARROW,2007,73,WHITE,Male,Frozen,1.4ML,N/A,Varibably cellular marrow 10-50%,Human,UAB,Non-Hispanic
-BONE MARROW,2006,70,WHITE,Female,Frozen,ML,N/A,Variable cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,67,BLACK,Female,Frozen,Grams,N/A,Lymphomatous infiltrate in the bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Male,Frozen,Grams,N/A,Normocellular marrow (20-40%) with megaloblastic changes ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,64,OTHER,Male,Frozen,Grams,N/A,Marrow with trilineal hematopiesis,Human,UAB,Hispanic
-BONE MARROW,2006,26,WHITE,Female,Frozen,Grams,N/A,Normocystic marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Lymphomatous infiltration of the bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Lymphomatous infiltration of the bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,WHITE,Male,Frozen,Grams,N/A,Abnormal non diagnostic marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,38,WHITE,Male,Frozen,Grams,N/A,Cellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,18,WHITE,Female,Frozen,ML,N/A,Hypocellular bone marrow dysmegakaryopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,WHITE,Male,Frozen,ML,N/A,Normocellular marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,75,WHITE,Male,Frozen,Grams,N/A,Variable Cellularity (~30-80%) with some osteosclerosis of trabecular bone ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,75,WHITE,Male,Frozen,Grams,N/A,Variable Cellularity (~30-80%) with some osteosclerosis of trabecular bone ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,61,WHITE,Female,Frozen,0.1ML,N/A,"Myelodysplastic syndrome, unclassifiable",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,WHITE,Male,Frozen,1Grams,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,79,OTHER,Female,Frozen,Grams,N/A,Acute Promyelocytic Leukemia     ,Human,UAB,Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,0.5ML,N/A,Acute myeloid leukemia ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,18,WHITE,Female,Frozen,0.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,2ML,N/A,Hypercellular (60-70%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,1.5Grams,N/A,Hypercellular (60-70%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,77,WHITE,Male,Frozen,2ML,N/A,Slightly hypercellular (40-50%) bone marrow with megaloblastic changes ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,53,WHITE,Male,Frozen,Grams,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,53,WHITE,Male,Frozen,1.8ML,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,25,WHITE,Female,Frozen,Grams,N/A,Refractory anemia with excess blasts ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,61,WHITE,Female,Frozen,0.5ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,63,WHITE,Male,Frozen,Grams,N/A,Hypercellular (~100%) bone marrow with multi-lineage dysplasia and increased blasts ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,77,WHITE,Male,Frozen,0.8ML,N/A,Variably cellular (20-40%) bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,53,WHITE,Female,Frozen,1ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,53,WHITE,Female,Frozen,1.1ML,N/A,Hypoplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,51,WHITE,Female,Frozen,Grams,N/A,Refactory anemia,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Female,Frozen,Grams,N/A,Myelodysplastic Syndrome unclassified,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,47,BLACK,Female,Frozen,Grams,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,47,BLACK,Female,Frozen,Grams,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,63,WHITE,Female,Frozen,,N/A,"multiple myleoma.,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,58,WHITE,Female,Frozen,Grams,N/A,End-stage myelofibrosis with osteosclerosis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,70,WHITE,Male,Frozen,Grams,N/A,Malignant B cell neoplasm,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,65,WHITE,Female,Frozen,Grams,N/A,Normocellular marrow with trilineage hematopiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2006,42,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,42,WHITE,Female,Frozen,Grams,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,55,WHITE,Male,Frozen,Grams,N/A,"Malignant lymphoma, predominantly follicular",Human,UAB,Non-Hispanic
-BONE MARROW,2007,74,WHITE,Male,Frozen,Grams,N/A,Malignant B-cell lymphoma,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,54,WHITE,Female,Frozen,,N/A,Slightly hypocellular (20-30%) bone marrow withNORMAL marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,59,BLACK,Male,Frozen,1ML,N/A,Variably cellular (20-40%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,60,OTHER,Male,Frozen,Grams,N/A,Variably cellular (20-40%) bone marrow with tri-lineage hematopoiesis,Human,UAB,Hispanic
-BONE MARROW,2007,80,WHITE,Female,Frozen,Grams,N/A,Involvement of bone marrow with low-grade B-cell   ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,56,N/A,Male,Frozen,0.5Grams,N/A,Slightly hypocellular (~25%) bone marrow with trilineage hematopoiesis,Human,UAB,Hispanic
-BONE MARROW,2007,59,WHITE,Male,Frozen,2ML,N/A,Hypocellular (<5-15%) bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,59,WHITE,Male,Frozen,2ML,N/A,Hypocellular (<5-15%) bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,81,WHITE,Female,Frozen,0.7ML,N/A,Hypercellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,84,WHITE,Female,Frozen,1ML,N/A,Cellular (20-30%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,52,WHITE,Male,Frozen,2ML,N/A,Cellular (20-40%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,46,OTHER,Female,Frozen,Grams,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Hispanic
 BONE MARROW,N/A,46,OTHER,Female,Frozen,Grams,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Hispanic
-BONE MARROW,2007,59,WHITE,Male,Frozen,1ML,N/A,Follicular lymphoma ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,73,WHITE,Female,Frozen,1.8ML,N/A,Normocellular (30-40%) bone marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,31,N/A,Male,Frozen,2ML,N/A,Slightly hypocellular (30-40%) bone marrow ,Human,UAB,Hispanic
 BONE MARROW,N/A,74,WHITE,Male,Frozen,2.0Grams,N/A,Variably cellular (20-50%) bone marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2007,59,WHITE,Male,Frozen,1.5ML,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,64,WHITE,Male,Frozen,2ML,N/A,Variably cellular (15-30%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,66,WHITE,Male,Frozen,0.5ML,N/A,Variably hypocellular marrow (<5%-20%) with tri-lineage hematopoiesis  ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,39,WHITE,Male,Frozen,1ML,N/A,"Lymphomatous infiltrate, T-cell type",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,63,WHITE,Male,Frozen,1ML,N/A,Hypocellular marrow with benign lymphoid aggregate,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,51,BLACK,Female,Frozen,0.7ML,N/A,Slightly hypocellular marrow,Human,UAB,Non-Hispanic
@@ -701,173 +943,64 @@ BONE MARROW,N/A,49,BLACK,Male,Frozen,Grams,N/A,Interstitial lymphomatous infiltr
 BONE MARROW,N/A,49,BLACK,Male,Frozen,Grams,N/A,Interstitial lymphomatous infiltration of the bone marrow ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,65,WHITE,Male,Frozen,,N/A,"non hodgkins lymphoma...,",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,22,BLACK,Female,Frozen,,N/A,"hodgkins lymphoma...,",Human,UAB,Non-Hispanic
-BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,56,WHITE,Male,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Chronic myeloproliferative disease with marked   myelofibrosis ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Chronic myeloproliferative disease with marked   myelofibrosis ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,59,WHITE,Female,Frozen,ML,N/A,Chronic myeloproliferative disease with marked   myelofibrosis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,78,WHITE,Female,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,36,OTHER,Female,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,36,OTHER,Female,Frozen,Grams,N/A,Slightly hypocellular marrow,Human,UAB,Hispanic
 BONE MARROW,N/A,61,WHITE,Female,Frozen,Grams,N/A,Marrow hypoplasia ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,79,OTHER,Female,Frozen,Grams,N/A,Marrow with mild but definite dysplastic changes,Human,UAB,Hispanic
 BONE MARROW,N/A,79,OTHER,Female,Frozen,Grams,N/A,Marrow with mild but definite dysplastic changes,Human,UAB,Hispanic
-BONE MARROW,2006,41,WHITE,Female,Frozen,Grams,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,47,OTHER,Female,Frozen,Grams,N/A,Hypoplasia of bone marrow,Human,UAB,Hispanic
-BONE MARROW,2006,45,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2006,45,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,56,WHITE,Female,Frozen,ML,N/A,Hypocellular marrow. ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,35,WHITE,Male,Frozen,ML,N/A,Hypercellular marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,59,WHITE,Male,Frozen,Grams,N/A,Leukopenia with non diagnostic bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,56,WHITE,Male,Frozen,1ML,N/A,Hypocellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,OTHER,Male,Frozen,0.6ML,N/A,Non-diagnostic marrow ,Human,UAB,Hispanic
 BONE MARROW,N/A,45,OTHER,Male,Frozen,0.9ML,N/A,Non-diagnostic marrow ,Human,UAB,Hispanic
-BONE MARROW,2007,66,WHITE,Male,Frozen,1ML,N/A,Cellular (~40%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,66,WHITE,Male,Frozen,0.8ML,N/A,Cellular (~40%) bone marrow with trilineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,WHITE,Male,Frozen,1ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,WHITE,Male,Frozen,0.9ML,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,46,WHITE,Male,Frozen,0.8Grams,N/A,Hairy cell leukemia,Human,UAB,Non-Hispanic
-BONE MARROW,2007,67,WHITE,Male,Frozen,0.5ML,N/A,Non-diagnostic marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
-BONE MARROW,2006,53,BLACK,Female,Frozen,Grams,N/A,"Hypoplasia, Bone Marrow",Human,UAB,Non-Hispanic
 BONE MARROW,N/A,49,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,72,WHITE,Male,Frozen,1ML,N/A,Variably hypercellular bone marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,72,OTHER,Male,Frozen,Grams,N/A,Normocellular bone marrow,Human,UAB,Hispanic
-BONE MARROW,2006,59,OTHER,Male,Frozen,Grams,N/A,Myelofibrosis bone marrow,Human,UAB,Hispanic
-BONE MARROW,2008,61,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
-BONE MARROW,2008,58,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
-BONE MARROW,2008,61,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
-BONE MARROW,2008,61,WHITE,Male,Frozen,1.5ML,N/A,Bone Marrow from patient with prostate cancer,Human,UAB,Non-Hispanic
-BONE MARROW,2006,49,WHITE,Female,Frozen,,N/A,Normal Bone Marrow,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,28,OTHER,Female,Frozen,Grams,N/A,Recovering marrow,Human,UAB,Hispanic
-BONE MARROW,2007,57,WHITE,Male,Frozen,0.5ML,N/A,Cellular bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,45,WHITE,Female,Frozen,Grams,N/A,Acute myeloid leukemia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,77,WHITE,Male,Frozen,ML,N/A,Hyperplasia bone marrow,Human,UAB,Non-Hispanic
-BONE MARROW,2007,54,WHITE,Male,Frozen,Grams,N/A,Marrow with mild increase in plasma cells,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,81,WHITE,Male,Frozen,Grams,N/A,Non diagnostic bone marrow with erythroid hyperplasia,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,54,BLACK,Female,Frozen,0.4ML,N/A,Marrow specimen inadequate for interpretation,Human,UAB,Non-Hispanic
-BONE MARROW,2006,62,OTHER,Male,Frozen,Grams,N/A,Normocellular Marrow with Trilineal Hematopoeisis,Human,UAB,Hispanic
-BONE MARROW,2007,70,BLACK,Female,Frozen,0.5ML,N/A,Hypercellular marrow with increase of megakaryocytes ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,BLACK,Male,Frozen,,N/A,Sickle cell.,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,BLACK,Male,Frozen,,N/A,Sickle cell.,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,41,BLACK,Male,Frozen,,N/A,Sickle cell.,Human,UAB,Non-Hispanic
-BONE MARROW,1992,0,BLACK,Female,Frozen,,N/A,Premature dysmorphic infant; peritonitis 2° to perforation of distal duodenum; sepsis.,Human,UAB,Non-Hispanic
-BONE MARROW,2007,71,OTHER,Female,Frozen,1ML,N/A,"Malignant lymphoma, diffuse, Large B-cell type",Human,UAB,Hispanic
-BONE MARROW,2007,49,BLACK,Female,Frozen,0.5ML,N/A,Cellular (30-50%) bone marrow with tri-lineage hematopoiesis ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,62,WHITE,Male,Frozen,0.5ML,N/A,Normocellular bone marrow with tri-lineage hematopoiesis,Human,UAB,Non-Hispanic
-BONE MARROW,2007,60,WHITE,Female,Frozen,1ML,N/A,Megakaryocytic hyperplasia consistent with essential thrombocytosis     ,Human,UAB,Non-Hispanic
 BONE MARROW,N/A,75,WHITE,Male,Frozen,1ML,N/A,Slightly hypercellular marrow ,Human,UAB,Non-Hispanic
-BONE MARROW,2006,57,OTHER,Male,Frozen,Grams,N/A,Rare plasma cells seen on aspirate ,Human,UAB,Hispanic
-BONE MARROW,2006,57,OTHER,Male,Frozen,Grams,N/A,Rare plasma cells seen on aspirate ,Human,UAB,Hispanic
-BONE MARROW,2006,57,OTHER,Male,Frozen,Grams,N/A,Rare plasma cells seen on aspirate ,Human,UAB,Hispanic
-BONE MARROW,2006,27,WHITE,Male,Frozen,Grams,N/A,Myeloid and megakaryocytic elements favor early recovery,Human,UAB,Non-Hispanic
-BONE MARROW,2007,50,OTHER,Female,Frozen,0.5ML,N/A,Necrosis and granulation tissue formation,Human,UAB,Hispanic
 Bone,N/A,57,WHITE,Male,Frozen,0.40Grams,N/A,N/A,Human,UAB,Non-Hispanic
-CARTILAGE,2001,0,N/A,Female,Frozen,1 Cassette,NORMAL,neural tube defect,Human,UAB,Hispanic
-CARTILAGE,2004,52,WHITE,Male,Frozen,1.7 Grams,NORMAL,osteosarcoma,Human,UAB,Non-Hispanic
-CARTILAGE,2004,52,WHITE,Male,Frozen,2.55 Grams,NORMAL,osteosarcoma,Human,UAB,Non-Hispanic
-CARTILAGE,2005,66,BLACK,Female,Frozen,.14 Grams,NORMAL,Coronary Artery Disease,Human,UAB,Non-Hispanic
-CARTILAGE,2005,18,BLACK,Female,Frozen,1.57 Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-CARTILAGE,2007,91,WHITE,Male,Frozen,1.51Grams,NORMAL,Squamous Cell Carcinoma,Human,UAB,Non-Hispanic
-CARTILAGE,2010,79,WHITE,Male,Frozen,.30Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
-CARTILAGE,2010,79,WHITE,Male,Frozen,.24Grams,NORMAL,Squamous Cell Carcinoma,Human,UAB,Non-Hispanic
-CARTILAGE,2010,72,BLACK,Male,Frozen,.13Grams,NORMAL,peripheral vascular disease,Human,UAB,Non-Hispanic
-CARTILAGE,2010,72,BLACK,Male,Frozen,.07Grams,NORMAL,peripheral vascular disease,Human,UAB,Non-Hispanic
 CARTILAGE,N/A,68,WHITE,Female,Frozen,1 Cassette,NORMAL,coronary atherosclerosis.,Human,UAB,Non-Hispanic
 CARTILAGE,N/A,68,WHITE,Female,Frozen,1 Cassette,NORMAL,coronary atherosclerosis.,Human,UAB,Non-Hispanic
 RIB,N/A,0,OTHER,Male,Frozen,1 Cassette,NORMAL,N/A,Human,UAB,Hispanic
 CARTILAGE,N/A,35,WHITE,Male,Frozen,1.46 Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-BRAIN,2000,22,WHITE,Male,Frozen,2.44 Grams,N/A,Brain with ischemic change.,Human,UAB,Non-Hispanic
 BRAIN,N/A,59,WHITE,Male,Frozen,,N/A,N/A,Human,UAB,Non-Hispanic
-BRAIN,2003,15,BLACK,Male,Frozen,2.73 Grams,N/A,Ganglioneuroma.,Human,UAB,Non-Hispanic
-BRAIN,2007,4,OTHER,Female,Frozen,1.05Grams,BENIGN,CHOROID PLEXUS PAPILLOMA,Human,UAB,Hispanic
-BRAIN,2008,2,WHITE,Female,Frozen,1.17Grams,BENIGN,CHOROID PLEXUS PAPILLOMA,Human,UAB,Non-Hispanic
-BRAIN,2009,12,OTHER,Male,Frozen,.48Grams,BENIGN,CHOROID PLEXUS PAPILLOMA,Human,UAB,Hispanic
 BRAIN,N/A,31,BLACK,Female,Frozen,1.60Grams,BENIGN,MENINGIOMA ,Human,UAB,Non-Hispanic
 BRAIN,N/A,31,BLACK,Female,Frozen,1.07Grams,BENIGN,MENINGIOMA ,Human,UAB,Non-Hispanic
 BRAIN,N/A,31,BLACK,Female,Frozen,1.40Grams,BENIGN,MENINGIOMA ,Human,UAB,Non-Hispanic
 BRAIN,N/A,31,BLACK,Female,Frozen,1.79Grams,BENIGN,MENINGIOMA ,Human,UAB,Non-Hispanic
-BRAIN,2014,88,BLACK,Male,Frozen,.38Grams,BENIGN,MENINGIOMA ,Human,UAB,Non-Hispanic
-BRAIN,2014,88,BLACK,Male,Frozen,.45Grams,BENIGN,N/A,Human,UAB,Non-Hispanic
 BRAIN,N/A,0,OTHER,Male,Frozen,0.85Grams,NORMAL,N/A,Human,UAB,Hispanic
 BRAIN,N/A,55,WHITE,Female,Frozen,,NORMAL,N/A,Human,UAB,Non-Hispanic
 BRAIN,N/A,45,BLACK,Male,Frozen,2 Cassettes,MALIGNANT,Meningioma.,Human,UAB,Non-Hispanic
-BRAIN,1992,38,WHITE,Male,Frozen,1 Cassette,MALIGNANT,N/A,Human,UAB,Non-Hispanic
 BRAIN,N/A,5,BLACK,Male,Frozen,1 Cassette,INFECTED,N/A,Human,UAB,Non-Hispanic
-BRAIN,1992,92,WHITE,Female,Frozen,1 Cassette,MALIGNANT,meningioma.,Human,UAB,Non-Hispanic
 BRAIN,N/A,67,WHITE,Female,Frozen,1 Cassette,BENIGN,Epidermoid cyst of brain.,Human,UAB,Non-Hispanic
-BRAIN,1995,83,WHITE,Male,Frozen,4 Cassettes,DISEASED,Alzheimer's.,Human,UAB,Non-Hispanic
-BRAIN,1995,83,WHITE,Male,Frozen,2 Cassettes,DISEASED,Alzheimer's.,Human,UAB,Non-Hispanic
-BRAIN,1996,78,WHITE,Female,Frozen,3 Grams,DISEASED,Normal mild ischemic changes,Human,UAB,Non-Hispanic
-BRAIN,1996,24,WHITE,Male,Frozen,.16 Grams,BENIGN,Epidermoid cyst of brain.,Human,UAB,Non-Hispanic
-BRAIN,1996,24,WHITE,Male,Frozen,.43 Grams,BENIGN,Epidermoid cyst of brain.,Human,UAB,Non-Hispanic
-BRAIN,1997,29,WHITE,Female,Frozen,.3 Grams,MALIGNANT,oligodendroglioma,Human,UAB,Non-Hispanic
 BRAIN,N/A,62,WHITE,Female,Frozen,1.08 Grams,MALIGNANT,N/A,Human,UAB,Non-Hispanic
 BRAIN,N/A,78,WHITE,Male,Frozen,,NORMAL,Normal mild ischemic changes,Human,UAB,Non-Hispanic
-BRAIN,1992,0,N/A,,Frozen,,N/A,N/A,Human,UAB,Hispanic
 CERVIX,N/A,45,BLACK,Female,Frozen,3.36Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2009,71,WHITE,Female,Frozen,.58Grams,N/A, ENDOMETRIAL CANCER,Human,UAB,Non-Hispanic
-CERVIX,2009,50,WHITE,Female,Frozen,.55Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,45,OTHER,Female,Frozen,3.15Grams,NORMAL, L OVARIAN CYST,Human,UAB,Hispanic
 CERVIX,N/A,45,OTHER,Female,Frozen,4.14Grams,NORMAL, L OVARIAN CYST,Human,UAB,Hispanic
-CERVIX,2010,64,WHITE,Female,Frozen,2.08Grams,NORMAL, L TUBO-OVARIAN ABSCESS,Human,UAB,Non-Hispanic
-CERVIX,2010,68,WHITE,Female,Frozen,.80Grams,NORMAL, PAPILLARY SEROUS CARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2010,50,BLACK,Female,Frozen,.50Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2010,38,BLACK,Female,Frozen,.75Grams,NORMAL, ENDOMETRIOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,44,WHITE,Female,Frozen,3.41Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2010,38,BLACK,Female,Frozen,.67Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2010,30,WHITE,Female,Frozen,.62Grams,MALIGNANT,t w/ GLASSY CELL CARCINOMA,Human,UAB,Non-Hispanic
-Pelvis,2010,83,WHITE,Female,Frozen,9Grams,MALIGNANT, MUCINOUS ADENOCARCINOMA OF OVARY ,Human,UAB,Non-Hispanic
-CERVIX,2010,63,WHITE,Female,Frozen,2.85Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2010,63,WHITE,Female,Frozen,4.17Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2010,63,WHITE,Female,Frozen,3.18Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2010,59,WHITE,Female,Frozen,3.53Grams,NORMAL, SEROUS CYSTADENOMA OF OVARY,Human,UAB,Non-Hispanic
-CERVIX,2010,44,BLACK,Female,Frozen,5.67Grams,NORMAL, UTERINE PROLAPSE,Human,UAB,Non-Hispanic
 CERVIX,N/A,71,WHITE,Female,Frozen,1.89Grams,NORMAL, UTERINE PROLAPSE,Human,UAB,Non-Hispanic
 CERVIX,N/A,68,WHITE,Female,Frozen,.83Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,68,WHITE,Female,Frozen,.64Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,45,BLACK,Female,Frozen,0.53Grams,NORMAL, BENIGN CERVIX AND PARAKERATOSIS,Human,UAB,Non-Hispanic
-CERVIX,2011,28,BLACK,Female,Frozen,.59Grams,NORMAL, ENDOMETRIOSIS,Human,UAB,Non-Hispanic
-CERVIX,2011,40,WHITE,Female,Frozen,1.00Grams,NORMAL, ENDOMETRIAL CARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,43,BLACK,Female,Frozen,4.25Grams,NORMAL, R OVARIAN CYST,Human,UAB,Non-Hispanic
-CERVIX,2011,53,BLACK,Female,Frozen,1.22 Grams,NORMAL, UTERINE FIBROID AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2011,41,BLACK,Female,Frozen,2.5x1x0.03CM,NORMAL, SEVERE DYSPLASIA TO CARCINOMA IN SITU (CIN-III),Human,UAB,Non-Hispanic
-CERVIX,2011,57,BLACK,Female,Frozen,.82Grams,NORMAL, BILATERAL SEROUS CYSTADENOFIBROMA AND FIBROID,Human,UAB,Non-Hispanic
-CERVIX,2011,48,BLACK,Female,Frozen,1.23Grams,NORMAL, UTERINE FIBROID,Human,UAB,Non-Hispanic
 CERVIX,N/A,39,WHITE,Female,Frozen,.55Grams,NORMAL, DYSMENORRHEA,Human,UAB,Non-Hispanic
 CERVIX,N/A,38,WHITE,Female,Frozen,.50Grams,NORMAL, DYSMENORRHEA,Human,UAB,Non-Hispanic
 CERVIX,N/A,50,BLACK,Female,Frozen,.43Grams,NORMAL, ENDOMETRIOSIS,Human,UAB,Non-Hispanic
-CERVIX,2011,60,WHITE,Female,Frozen,.33Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2011,82,WHITE,Female,Frozen,.48Grams,NORMAL, UTERINE FIBROID (ENDOMETRIAL STROMAL SARCOMA - LOW GRADE),Human,UAB,Non-Hispanic
 CERVIX,N/A,70,WHITE,Female,Frozen,.40Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA W/ SQUAMOUS DIFFERENTIATION,Human,UAB,Non-Hispanic
 CERVIX,N/A,32,WHITE,Female,Frozen,.38Grams,NORMAL, MENORRHAGIA,Human,UAB,Non-Hispanic
-CERVIX,2012,74,WHITE,Female,Frozen,.70Grams,NORMAL,ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2012,74,WHITE,Female,Frozen,.54Grams,NORMAL, ADENOMYOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,48,N/A,Female,Frozen,1.2Grams,NORMAL, ADENOMYOSIS,Human,UAB,Hispanic
 CERVIX,N/A,27,WHITE,Female,Frozen,0.79Grams,NORMAL, ADENOMYOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,66,WHITE,Female,Frozen,1.50Grams,NORMAL, MODERATELY DIFFERENTIATED ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,41,WHITE,Female,Frozen,.35Grams,NORMAL, ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2012,67,WHITE,Female,Frozen,.9Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2012,43,WHITE,Female,Frozen,.43Grams,NORMAL, BILATERAL FOLLICULAR OVARIAN CYST,Human,UAB,Non-Hispanic
-CERVIX,2012,53,WHITE,Female,Frozen,.65Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2012,56,BLACK,Female,Frozen,.42Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2012,41,WHITE,Female,Frozen,.79Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,65,WHITE,Female,Frozen,.43Grams,BENIGN, FOLLICULAR CYST OF L OVARY,Human,UAB,Non-Hispanic
-CERVIX,2012,34,WHITE,Female,Frozen,1.3Grams,NORMAL, SCC OF CERVIX,Human,UAB,Non-Hispanic
-CERVIX,2012,41,OTHER,Female,Frozen,0.78Grams,NORMAL,  FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Hispanic
-CERVIX,2012,42,BLACK,Female,Frozen,1.16Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2014,54,WHITE,Female,Frozen,0.42Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2014,54,WHITE,Female,Frozen,0.58Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2014,51,WHITE,Female,Frozen,0.57Grams,BENIGN, ADENOMYOSIS,Human,UAB,Non-Hispanic
-CERVIX,2014,56,WHITE,Female,Frozen,0.36Grams,NORMAL, OVARIAN CYSTADENOFIBROMA,Human,UAB,Non-Hispanic
-CERVIX,2014,37,BLACK,Female,Frozen,0.43Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2014,63,WHITE,Female,Frozen,0.35Grams,NORMAL, HIGH GRADE ENDOMETRIUM ADENOCARCINOMA W. MIXED EPITHELIAL TYPE,Human,UAB,Non-Hispanic
-CERVIX,2014,41,WHITE,Female,Frozen,0.54Grams,NORMAL, ADENOMYOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,56,WHITE,Female,Frozen,0.75Grams,NORMAL, OVARIAN ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,43,BLACK,Female,Frozen,0.58Grams,NORMAL,  FIBROID UTERUS AND AUB (ABNORMAL UTERINE BLEEDING),Human,UAB,Non-Hispanic
 CERVIX,N/A,85,WHITE,Female,Frozen,0.55Grams,NORMAL, PAPILLAY SEROUS CARCINOMA ,Human,UAB,Non-Hispanic
@@ -875,55 +1008,20 @@ CERVIX,N/A,64,WHITE,Female,Frozen,0.56Grams,NORMAL, PAPILLAY SEROUS CARCINOMA,Hu
 CERVIX,N/A,45,WHITE,Female,Frozen,0.23Grams,NORMAL, PROPHYLATIC REMOVAL,Human,UAB,Non-Hispanic
 CERVIX,N/A,48,WHITE,Female,Frozen,1.23Grams,NORMAL, ATYPICAL ENDOMETRIUM,Human,UAB,Non-Hispanic
 CERVIX,N/A,48,WHITE,Female,Frozen,1.59Grams,NORMAL, ENDOMETRIOD ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-CERVIX,2014,72,BLACK,Female,Frozen,0.69Grams,NORMAL,  MESODERMAL MIXED TUMOR OF OVARY (CARCINOSARCOMA),Human,UAB,Non-Hispanic
-CERVIX,2014,84,BLACK,Female,Frozen,1.00Grams,NORMAL, PAPILLARY SEROUS CARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,56,BLACK,Female,Frozen,0.67Grams,MALIGNANT, SCC OF CERVIX,Human,UAB,Non-Hispanic
 CERVIX,N/A,56,BLACK,Female,Frozen,0.50Grams,MALIGNANT, SCC OF CERVIX,Human,UAB,Non-Hispanic
 CERVIX,N/A,56,BLACK,Female,Frozen,0.48Grams,NORMAL, SCC OF CERVIX,Human,UAB,Non-Hispanic
-CERVIX,2015,67,WHITE,Female,Frozen,0.20Grams,MALIGNANT, SCC OF CERVIX,Human,UAB,Non-Hispanic
-CERVIX,2015,67,WHITE,Female,Frozen,0.13Grams,NORMAL, BASELOID SCC OF CERVIX OR CIS,Human,UAB,Non-Hispanic
-CERVIX,2015,66,BLACK,Female,Frozen,0.46Grams,NORMAL,Malignant MIXED MULLARIAN TUMOR INVOLVING CERVIX,Human,UAB,Non-Hispanic
-CERVIX,2015,66,BLACK,Female,Frozen,0.34Grams,NORMAL,Malignant MIXED MULLARIAN TUMOR INVOLVING CERVIX,Human,UAB,Non-Hispanic
-CERVIX,2015,52,BLACK,Female,Frozen,0.25Grams,MALIGNANT, ENDOMETRIOID ADENOCARCINOMA INVOLVES CERVICAL STROMAL ,Human,UAB,Non-Hispanic
-CERVIX,2015,52,BLACK,Female,Frozen,0.28Grams,UNINVOLVED, ENDOMETRIOID ADENOCARCINOMA INVOLVES CERVICAL STROMAL,Human,UAB,Non-Hispanic
-CERVIX,2015,29,WHITE,Female,Frozen,1.23Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-Endometrium,2016,52,WHITE,Female,Frozen,0.33Grams,MALIGNANT,  ENDOMETRIAL TUMOR W/ CERVICAL MASS,Human,UAB,Non-Hispanic
-CERVIX,2016,52,WHITE,Female,Frozen,0.34Grams,UNINVOLVED, CLEAR CELL OVARIAN TUMOR INVOLVES CERVICAL STROMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,42,BLACK,Female,Frozen,0.88Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,39,BLACK,Female,Frozen,0.43Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,39,BLACK,Female,Frozen,0.33Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,32,BLACK,Female,Frozen,0.45Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,49,BLACK,Female,Frozen,0.69Grams,NORMAL, BENIGN SEROUS CYSTADENOMA,Human,UAB,Non-Hispanic
-CERVIX,2016,49,BLACK,Female,Frozen,0.71Grams,NORMAL,  BENIGN SEROUS CYSTADENOMA,Human,UAB,Non-Hispanic
-CERVIX,2016,49,BLACK,Female,Frozen,0.36Grams,NORMAL,  BENIGN SEROUS CYSTADENOMA,Human,UAB,Non-Hispanic
-CERVIX,2016,42,WHITE,Female,Frozen,0.62Grams,NORMAL, ABNORMAL UTERINE BLEEDING,Human,UAB,Non-Hispanic
-CERVIX,2016,31,BLACK,Female,Frozen,0.54Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,31,BLACK,Female,Frozen,0.45Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
 CERVIX,N/A,41,BLACK,Female,Frozen,1.90Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
 CERVIX,N/A,41,BLACK,Female,Frozen,1.69Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,38,BLACK,Female,Frozen,1.11Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,38,BLACK,Female,Frozen,0.64Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,30,WHITE,Female,Frozen,0.74Grams,NORMAL, R OVARIAN CYST W/ MENORRHAGIA,Human,UAB,Non-Hispanic
-CERVIX,2016,38,WHITE,Female,Frozen,0.14Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
-CERVIX,2016,42,BLACK,Female,Frozen,0.49Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
-CERVIX,2016,42,BLACK,Female,Frozen,0.52Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
-CERVIX,2016,42,BLACK,Female,Frozen,0.35Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,42,BLACK,Female,Frozen,0.39Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,41,BLACK,Female,Frozen,0.42Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
 CERVIX,N/A,32,WHITE,Female,Frozen,0.54Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY - BRCA1 - PROHYLATIC ,Human,UAB,Non-Hispanic
 CERVIX,N/A,32,WHITE,Female,Frozen,0.38Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY - BRCA1 - PROHYLATIC ,Human,UAB,Non-Hispanic
-CERVIX,2016,34,WHITE,Female,Frozen,1.13Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY,Human,UAB,Non-Hispanic
-CERVIX,2016,34,WHITE,Female,Frozen,0.93Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY,Human,UAB,Non-Hispanic
 CERVIX,N/A,38,WHITE,Female,Frozen,0.56Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
 CERVIX,N/A,38,WHITE,Female,Frozen,0.34Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
 CERVIX,N/A,54,WHITE,Female,Frozen,0.17Grams,MALIGNANT, ENDOCERVICAL ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,54,WHITE,Female,Frozen,0.50Grams,MALIGNANT, ENDOCERVICAL ADENOCARCINOMA,Human,UAB,Non-Hispanic
 CERVIX,N/A,34,N/A,Female,Frozen,0.45Grams,NORMAL, R OVARIAN CYST AND ADENOMYOSIS,Human,UAB,Hispanic
 CERVIX,N/A,34,N/A,Female,Frozen,1.05Grams,NORMAL, R OVARIAN CYST AND ADENOMYOSIS,Human,UAB,Hispanic
-CERVIX,2016,39,BLACK,Female,Frozen,0.59Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2016,59,WHITE,Female,Frozen,1.30Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2016,60,BLACK,Female,Frozen,0.33Grams,NORMAL, PAPILLAY SEROUS ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2017,76,BLACK,Female,Frozen,0.77Grams,MALIGNANT, SCC OF CERVIX - METASTATIC TO LN,Human,UAB,Non-Hispanic
 CERVIX,N/A,44,BLACK,Female,Frozen,1.43Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,25,WHITE,Female,Frozen,1.29Grams,NORMAL, FOLLICULAR CYST OF R & L OVARY W/ GENDER DYSPHORIA - FEMALE TO MALE,Human,UAB,Non-Hispanic
 CERVIX,N/A,61,WHITE,Female,Frozen,1.06Grams,NORMAL,SEROUS ADENOCARCINOMA OF R OVARY MIXED,Human,UAB,Non-Hispanic
@@ -931,17 +1029,8 @@ CERVIX,N/A,36,BLACK,Female,Frozen,1.86Grams,NORMAL, FIBROID UTERUS AND ADENOMYOS
 CERVIX,N/A,29,WHITE,Female,Frozen,0.55Grams,NORMAL, AUB,Human,UAB,Non-Hispanic
 CERVIX,N/A,23,WHITE,Female,Frozen,0.62Grams,N/A, CHRONIC ENDOMETRITIES,Human,UAB,Non-Hispanic
 CERVIX,N/A,33,BLACK,Female,Frozen,0.98Grams,NORMAL, FIBROID UTERUS,Human,UAB,Non-Hispanic
-CERVIX,2018,47,BLACK,Female,Frozen,4.17Grams,BENIGN, UTERINE PROLAPSE,Human,UAB,Non-Hispanic
-CERVIX,2018,35,BLACK,Female,Frozen,2.05Grams,NORMAL, FIBROID UTERUS AND ADENOMYOSIS,Human,UAB,Non-Hispanic
 CERVIX,N/A,19,BLACK,Female,Frozen,0.80Grams,NORMAL, FOLLICULAR CYST IN R & L OVARY,Human,UAB,Non-Hispanic
-CERVIX,2018,67,BLACK,Female,Frozen,0.57Grams,MALIGNANT, PROLAPSINGMalignant MIXED MULLERIAN TUMOR (CARCINISARCOMA) W/ HETEROGENOUS ELEMENTS,Human,UAB,Non-Hispanic
-CERVIX,2018,41,WHITE,Female,Frozen,0.62Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2019,70,BLACK,Female,Frozen,1.31Grams,NORMAL,"
- ENDOMETRIOID ADENOCARCINOMA",Human,UAB,Non-Hispanic
-CERVIX,2019,40,WHITE,Female,Frozen,0.67Grams,NORMAL,"
- ENDOMETRIOSIS AND SQUAMOUS METAPLASIA OF CERVIX",Human,UAB,Non-Hispanic
 CERVIX,N/A,28,BLACK,Female,Frozen,1.19Grams,NORMAL, ENDOMETRIOID ADENOCARCINOMA,Human,UAB,Non-Hispanic
-CERVIX,2019,37,BLACK,Female,Frozen,0.5CM2,NORMAL, ADENOMYOSIS AND CERVICITIS,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,66,WHITE,Male,Frozen,,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,82,WHITE,Female,Frozen,.67 Grams,BENIGN, NEUROLEMMOMA/SCHWANNOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Female,Frozen,.25Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
@@ -964,7 +1053,6 @@ COLON/RECTUM,N/A,68,WHITE,Male,Frozen,.57Grams,MALIGNANT, ADENOCARCINOMA ,Human,
 COLON/RECTUM,N/A,61,WHITE,Female,Frozen,1.05Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,41,WHITE,Male,Frozen,.06Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,78,WHITE,Female,Frozen,.54Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2007,57,BLACK,Male,Frozen,1.17Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,46,WHITE,Female,Frozen,.49 Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,65,WHITE,Female,Frozen,1.31Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,50,BLACK,Female,Frozen,.48 Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
@@ -980,8 +1068,6 @@ COLON/RECTUM,N/A,60,WHITE,Male,Frozen,1.55Grams,MALIGNANT, ADENOCARCINOMA ,Human
 COLON/RECTUM,N/A,60,WHITE,Male,Frozen,1.26Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,63,WHITE,Female,Frozen,.96Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,47,WHITE,Male,Frozen,4.33Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2008,47,WHITE,Male,Frozen,3.65Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2008,56,BLACK,Male,Frozen,4.21Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Male,Frozen,1.02 Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Male,Frozen,.75 Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,52,WHITE,Male,Frozen,1.29Grams,UNINVOLVED,Mucosa & Submucosa,Human,UAB,Non-Hispanic
@@ -1079,8 +1165,6 @@ COLON/RECTUM,N/A,58,WHITE,Female,Frozen,1.52Grams,UNINVOLVED,N/A,Human,UAB,Non-H
 COLON/RECTUM,N/A,80,WHITE,Female,Frozen,5Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,55,WHITE,Male,Frozen,.25Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,71,WHITE,Female,Frozen,1.5Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2012,59,WHITE,Female,Frozen,.19Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2012,59,WHITE,Female,Frozen,.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Male,Frozen,.83Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,51,WHITE,Female,Frozen,0.37Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,67,WHITE,Female,Frozen,0.40Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
@@ -1118,8 +1202,6 @@ COLON/RECTUM,N/A,47,BLACK,Female,Frozen,1.80Grams,NORMAL,N/A,Human,UAB,Non-Hispa
 COLON/RECTUM,N/A,47,BLACK,Female,Frozen,1.32Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,56,WHITE,Male,Frozen,0.65Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,56,WHITE,Male,Frozen,0.80Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2014,66,WHITE,Male,Frozen,0.16Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2014,66,WHITE,Male,Frozen,0.26Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,50,BLACK,Male,Frozen,1.75Grams,NORMAL, MUCOSA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,52,WHITE,Male,Frozen,1.90Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,52,WHITE,Male,Frozen,2.19Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
@@ -1145,8 +1227,6 @@ COLON/RECTUM,N/A,46,WHITE,Female,Frozen,0.42Grams,MALIGNANT, Adenocarcinoma ,Hum
 COLON/RECTUM,N/A,77,WHITE,Female,Frozen,0.12Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,77,WHITE,Female,Frozen,0.90Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,56,WHITE,Male,Frozen,0.50Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2014,58,BLACK,Female,Frozen,1.42Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2014,58,BLACK,Female,Frozen,.93Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,46,BLACK,Male,Frozen,0.29Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,50,WHITE,Female,Frozen,0.29Grams,MALIGNANT, SCC ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,50,WHITE,Female,Frozen,0.27Grams,MALIGNANT, SCC ,Human,UAB,Non-Hispanic
@@ -1204,12 +1284,9 @@ COLON/RECTUM,N/A,53,WHITE,Female,Frozen,0.16Grams,NORMAL,N/A,Human,UAB,Non-Hispa
 COLON/RECTUM,N/A,53,WHITE,Female,Frozen,0.21Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,61,WHITE,Female,Frozen,0.22Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,61,WHITE,Female,Frozen,0.37Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,56,BLACK,Female,Frozen,0.38Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,56,BLACK,Female,Frozen,.4Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,79,WHITE,Female,Frozen,0.26Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,79,WHITE,Female,Frozen,0.25Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,74,WHITE,Male,Frozen,0.40Grams,BENIGN,Tubular Adenoma,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,74,WHITE,Male,Frozen,0.39Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,52,BLACK,Female,Frozen,0.19Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,55,WHITE,Male,Frozen,0.43Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,55,WHITE,Male,Frozen,0.65Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
@@ -1232,10 +1309,8 @@ COLON/RECTUM,N/A,71,BLACK,Male,Frozen,0.65Grams,MALIGNANT, Adenocarcinoma ,Human
 COLON/RECTUM,N/A,53,BLACK,Female,Frozen,0.95Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,76,WHITE,Male,Frozen,2.13Grams,BENIGN,  w/acute serositis,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,76,WHITE,Male,Frozen,1.71Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,79,BLACK,Female,Frozen,0.90Grams,MALIGNANT, Adenocarcinoma (Mucinous) Primary,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,79,BLACK,Female,Frozen,0.64Grams,MALIGNANT, Adenocarcinoma (Mucinous) Primary,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,79,BLACK,Female,Frozen,0.60Grams,MALIGNANT, Adenocarcinoma (Mucinous) Primary,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,79,BLACK,Female,Frozen,0.28Grams,NORMAL, MUCOSA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,66,WHITE,Female,Frozen,0.15Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,66,WHITE,Female,Frozen,0.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,45,WHITE,Male,Frozen,0.25Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
@@ -1246,11 +1321,8 @@ COLON/RECTUM,N/A,69,WHITE,Male,Frozen,0.52Grams,NORMAL,N/A,Human,UAB,Non-Hispani
 COLON/RECTUM,N/A,69,WHITE,Male,Frozen,0.72Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,57,WHITE,Female,Frozen,0.47Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,57,WHITE,Female,Frozen,0.29Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,65,WHITE,Male,Frozen,.14 Grams,N/A,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,58,OTHER,Male,Frozen,1.11Grams,MALIGNANT, Adenocarcinoma (Mucinous) ,Human,UAB,Hispanic
 COLON/RECTUM,N/A,58,OTHER,Male,Frozen,0.36Grams,UNINVOLVED,N/A,Human,UAB,Hispanic
-COLON/RECTUM,2015,58,WHITE,Male,Frozen,0.16Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,58,WHITE,Male,Frozen,0.65Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,41,WHITE,Female,Frozen,0.25Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,BLACK,Male,Frozen,0.29Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,BLACK,Female,Frozen,0.44Grams,BENIGN,"adenomatous epithelium, no tumor",Human,UAB,Non-Hispanic
@@ -1269,7 +1341,6 @@ COLON/RECTUM,N/A,65,WHITE,Male,Frozen,0.25Grams,MALIGNANT,adenoca,Human,UAB,Non-
 COLON/RECTUM,N/A,65,WHITE,Male,Frozen,0.19Grams,MALIGNANT,adenoca,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,65,WHITE,Male,Frozen,0.17Grams,MALIGNANT,adenoca,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,65,WHITE,Male,Frozen,0.22Grams,MALIGNANT,adenoca,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,60,BLACK,Female,Frozen,0.30Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,56,BLACK,Male,Frozen,0.16Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,52,WHITE,Male,Frozen,0.10Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,52,WHITE,Male,Frozen,0.45Grams,UNINVOLVED,full thickness section,Human,UAB,Non-Hispanic
@@ -1283,7 +1354,6 @@ COLON/RECTUM,N/A,63,WHITE,Male,Frozen,0.82Grams,NORMAL,N/A,Human,UAB,Non-Hispani
 COLON/RECTUM,N/A,43,BLACK,Female,Frozen,0.42Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,66,WHITE,Male,Frozen,0.68Grams,N/A,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,53,WHITE,Female,Frozen,0.15Grams,MALIGNANT, Adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2015,35,WHITE,Male,Frozen,0.53Grams,DISEASED, COLITIS/INFLAMMATORY BOWEL DZ ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Female,Frozen,0.21Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Female,Frozen,0.13Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Male,Frozen,0.27Grams,MALIGNANT,adenoca,Human,UAB,Non-Hispanic
@@ -1349,9 +1419,7 @@ COLON/RECTUM,N/A,69,WHITE,Female,Frozen,0.17Grams,MALIGNANT, primary,Human,UAB,N
 COLON/RECTUM,N/A,69,WHITE,Female,Frozen,0.25Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,49,BLACK,Female,Frozen,0.15Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,49,BLACK,Female,Frozen,0.17Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2016,70,WHITE,Female,Frozen,0.38Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Female,Frozen,0.18Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2016,70,WHITE,Female,Frozen,0.20Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Female,Frozen,0.19Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Male,Frozen,0.50Grams,N/A,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Male,Frozen,0.26Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
@@ -1374,8 +1442,6 @@ COLON/RECTUM,N/A,58,WHITE,Female,Frozen,0.28Grams,UNINVOLVED,N/A,Human,UAB,Non-H
 COLON/RECTUM,N/A,69,WHITE,Male,Frozen,0.12Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,22,BLACK,Female,Frozen,0.93Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,41,WHITE,Female,Frozen,0.33Grams,DISEASED, COLITIS/INFLAMMATORY BOWEL DZ ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2016,79,WHITE,Female,Frozen,0.25Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2016,79,WHITE,Female,Frozen,0.28Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,22,WHITE,Female,Frozen,0.29Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,22,WHITE,Female,Frozen,0.31Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,28,BLACK,Female,Frozen,0.33Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
@@ -1420,7 +1486,6 @@ COLON/RECTUM,N/A,52,BLACK,Female,Frozen,1.42Grams,DISEASED, diverticulitis ,Huma
 COLON/RECTUM,N/A,61,WHITE,Male,Frozen,1.50Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,82,BLACK,Male,Frozen,0.96Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,51,WHITE,Male,Frozen,0.59Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2016,17,WHITE,Female,Frozen,0.33Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,60,WHITE,Female,Frozen,0.28Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,58,WHITE,Male,Frozen,0.63Grams,N/A,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Female,Frozen,0.61Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
@@ -1432,28 +1497,20 @@ COLON/RECTUM,N/A,70,WHITE,Female,Frozen,0.50Grams,UNINVOLVED,N/A,Human,UAB,Non-H
 COLON/RECTUM,N/A,27,WHITE,Male,Frozen,1.23Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,71,WHITE,Male,Frozen,0.56Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,71,WHITE,Male,Frozen,0.68Grams,NORMAL, full thickness,Human,UAB,Non-Hispanic
-COLON/RECTUM,2016,54,WHITE,Female,Frozen,1.57Grams,DISEASED," COLITIS, ULCERATIVE ",Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,49,WHITE,Male,Frozen,1.00Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,49,WHITE,Male,Frozen,1.72Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Female,Frozen,0.45Grams,NORMAL, full thickness section,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Female,Frozen,0.89Grams,NORMAL, full thickness section,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,35,BLACK,Female,Frozen,0.31Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,70,WHITE,Female,Frozen,0.29Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,70,WHITE,Female,Frozen,1.20Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,67,WHITE,Male,Frozen,0.10Grams,NORMAL, MUCOSA ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,67,WHITE,Male,Frozen,1.21Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,51,WHITE,Female,Frozen,0.23Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,51,WHITE,Female,Frozen,1.50Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,67,BLACK,Female,Frozen,1.41Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,67,BLACK,Female,Frozen,2.09Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,51,WHITE,Male,Frozen,0.42Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-ANUS,2017,54,BLACK,Male,Frozen,0.28Grams,MALIGNANT, squamous cell carcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,71,WHITE,Female,Frozen,0.90Grams,DISEASED, diverticulitis ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,57,WHITE,Male,Frozen,0.81Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,58,WHITE,Male,Frozen,0.44Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Male,Frozen,0.64Grams,DISEASED, diverticulitis ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,87,WHITE,Female,Frozen,1.28Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,87,WHITE,Female,Frozen,1.63Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,38,WHITE,Male,Frozen,0.91Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,38,WHITE,Male,Frozen,1.37Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,40,BLACK,Male,Frozen,0.83Grams,UNINVOLVED,focal inflammation  ,Human,UAB,Non-Hispanic
@@ -1465,8 +1522,6 @@ COLON/RECTUM,N/A,59,WHITE,Male,Frozen,0.43Grams,MALIGNANT, adenocarcinoma ,Human
 COLON/RECTUM,N/A,66,WHITE,Male,Frozen,0.51Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 ANUS,N/A,44,BLACK,Male,Frozen,1.40Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,68,WHITE,Female,Frozen,0.22Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,65,WHITE,Male,Frozen,0.75Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,65,WHITE,Male,Frozen,1.27Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Female,Frozen,1.18Grams,UNINVOLVED,adhesion and hemorrhage  ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,53,WHITE,Female,Frozen,1.59Grams,NORMAL, Full thickness,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,90,WHITE,Female,Frozen,0.89Grams,NORMAL, Full thickness section,Human,UAB,Non-Hispanic
@@ -1475,97 +1530,42 @@ COLON/RECTUM,N/A,43,WHITE,Female,Frozen,1.39Grams,UNINVOLVED,N/A,Human,UAB,Non-H
 COLON/RECTUM,N/A,28,BLACK,Male,Frozen,3.39Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,55,WHITE,Female,Frozen,0.51Grams,N/A, tubulovillous adenoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,55,WHITE,Female,Frozen,0.50Grams,N/A, tubulovillous adenoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,68,WHITE,Male,Frozen,1.06Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,46,BLACK,Female,Frozen,1.65Grams,BENIGN,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,BLACK,Female,Frozen,0.45Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,BLACK,Female,Frozen,0.37Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,60,BLACK,Female,Frozen,.41Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,59,WHITE,Male,Frozen,1.29Grams,NORMAL, full thickness,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,42,WHITE,Male,Frozen,0.81Grams,DISEASED, diverticulitis ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,67,BLACK,Male,Frozen,4.78Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,72,WHITE,Female,Frozen,4.54Grams,NORMAL, full thickness,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,76,WHITE,Female,Frozen,0.53Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,76,WHITE,Female,Frozen,0.70Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,68,WHITE,Female,Frozen,1.56Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,68,WHITE,Female,Frozen,1.60Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,52,WHITE,Male,Frozen,1.94Grams,MALIGNANT,  adenocarcinoma,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,52,WHITE,Male,Frozen,1.95Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,63,WHITE,Female,Frozen,0.35Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2017,63,WHITE,Female,Frozen,1.34Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,29,BLACK,Female,Frozen,0.55Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,48,BLACK,Male,Frozen,1.03Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Male,Frozen,1.82Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-ANUS,2018,56,WHITE,Male,Frozen,0.48Grams,MALIGNANT, squamous cell carcinoma ,Human,UAB,Non-Hispanic
-ANUS,2018,56,WHITE,Male,Frozen,0.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,66,WHITE,Female,Frozen,1.39Grams,BENIGN,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,34,WHITE,Male,Frozen,0.99Grams,DISEASED, crohns dz ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,54,WHITE,Female,Frozen,0.15Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,83,WHITE,Female,Frozen,0.73Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,83,WHITE,Female,Frozen,0.37Grams,DISEASED," COLITIS, ULCERATIVE ",Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,83,WHITE,Female,Frozen,0.28Grams,DISEASED," COLITIS, ULCERATIVE ",Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,60,WHITE,Male,Frozen,5.22Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,60,WHITE,Male,Frozen,1.40Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,53,WHITE,Female,Frozen,0.64Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,31,WHITE,Male,Frozen,0.93Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,47,BLACK,Female,Frozen,2.64Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,68,WHITE,Female,Frozen,1.15Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,60,WHITE,Female,Frozen,1.12Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,70,WHITE,Female,Frozen,0.80Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,85,WHITE,Female,Frozen,1.15Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,68,WHITE,Male,Frozen,0.45Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,40,WHITE,Male,Frozen,0.36Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,40,WHITE,Male,Frozen,0.46Grams,UNINVOLVED, full thickness,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,24,WHITE,Male,Frozen,3.83Grams,DISEASED, active chronic colitis  and proctitis,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,48,BLACK,Female,Frozen,0.25Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,48,BLACK,Female,Frozen,0.86Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,39,WHITE,Female,Frozen,0.80Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,60,BLACK,Female,Frozen,0.24Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,79,BLACK,Male,Frozen,1.21Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,65,WHITE,Female,Frozen,4.05Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,65,WHITE,Female,Frozen,1.28Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,45,WHITE,Male,Frozen,1.08Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,68,WHITE,Female,Frozen,1Grams,DISEASED, DIVERTICULOSIS ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,68,WHITE,Female,Frozen,0.29Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Female,Frozen,0.63Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,62,WHITE,Female,Frozen,0.58Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,92,WHITE,Female,Frozen,0.24Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,92,WHITE,Female,Frozen,0.39Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,65,WHITE,Male,Frozen,0.73Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,65,WHITE,Male,Frozen,1.15Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,50,WHITE,Female,Frozen,2.21Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,50,WHITE,Female,Frozen,2.25Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,74,BLACK,Female,Frozen,0.88Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Male,Frozen,4.07Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,81,BLACK,Female,Frozen,0.36Grams,NORMAL,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2018,39,WHITE,Male,Frozen,0.71Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,53,WHITE,Male,Frozen,1.85Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,53,WHITE,Male,Frozen,1.84Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,58,WHITE,Male,Frozen,0.92Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,69,WHITE,Male,Frozen,0.70Grams,MALIGNANT,  adenocarcinoma,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,69,WHITE,Male,Frozen,0.94Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,49,WHITE,Male,Frozen,1.61Grams,DISEASED," colitis, ulcerative mild",Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,23,WHITE,Male,Frozen,0.60Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,53,WHITE,Male,Frozen,0.33Grams,MALIGNANT, adenocarcinoma  ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,53,WHITE,Male,Frozen,0.52Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,67,BLACK,Male,Frozen,1.33Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,64,WHITE,Female,Frozen,0.32Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,49,WHITE,Male,Frozen,0.52Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,49,WHITE,Male,Frozen,1.09Grams,DISEASED," colitis, ulcerative ",Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,48,BLACK,Female,Frozen,0.66Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,48,BLACK,Female,Frozen,0.92Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,48,WHITE,Male,Frozen,0.14Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,54,WHITE,Female,Frozen,0.20Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,54,WHITE,Female,Frozen,0.60Grams,UNINVOLVED, full thickness,Human,UAB,Non-Hispanic
 LUNG,N/A,73,WHITE,Male,Frozen,0.64Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,18,WHITE,Male,Frozen,0.98Grams,BENIGN, Polyp ,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,44,WHITE,Female,Frozen,1.29Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,2019,44,WHITE,Female,Frozen,0.52Grams,DISEASED, DIVERTICULITIS ,Human,UAB,Non-Hispanic
 COLON/RECTUM,N/A,72,WHITE,Female,Frozen,1.13Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,,72,WHITE,Female,Frozen,0.23Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,,22,WHITE,Female,Frozen,0.65Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
-COLON/RECTUM,,48,WHITE,Male,Frozen,0.98Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,,48,WHITE,Male,Frozen,0.45Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
-COLON/RECTUM,,54,BLACK,Male,Frozen,0.59Grams,UNINVOLVED, Full thickness,Human,UAB,Non-Hispanic
-COLON/RECTUM,,54,BLACK,Male,Frozen,0.38Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
-COLON/RECTUM,,64,WHITE,Female,Frozen,0.21Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
-COLON/RECTUM,,72,WHITE,Female,Frozen,0.72Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,72,WHITE,Female,Frozen,0.23Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,22,WHITE,Female,Frozen,0.65Grams,DISEASED, CROHNS DZ ,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,48,WHITE,Male,Frozen,0.98Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,48,WHITE,Male,Frozen,0.45Grams,UNINVOLVED,N/A,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,54,BLACK,Male,Frozen,0.59Grams,UNINVOLVED, Full thickness,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,54,BLACK,Male,Frozen,0.38Grams,MALIGNANT, adenocarcinoma ,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,64,WHITE,Female,Frozen,0.21Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic
+COLON/RECTUM,N/A,72,WHITE,Female,Frozen,0.72Grams,MALIGNANT, ADENOCARCINOMA ,Human,UAB,Non-Hispanic

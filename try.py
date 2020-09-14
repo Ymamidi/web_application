@@ -52,6 +52,14 @@ if Sex_SELECTED == []:
 else:
     df = df[df['Sex'].isin(Sex_SELECTED)]
 
+#selecting age range
+values = st.sidebar.slider('Select age range', 0, 200, (0, 200))
+df = df[(df['Age'] >= values[0]) & (df['Age'] <= values[1])]
+
+Min_age = st.sidebar.text_input('Input min age (years)') 
+Max_age = st.sidebar.text_input('Input max age (years)') 
+df = df[(df['Age'] >= int(Min_age)) & (df['Age'] <= int(Max_age))]
+
 
 #selecting patient race
 R_type = df['Race'].unique()
@@ -89,14 +97,6 @@ if buttons == 'within last 5 years':
 if buttons == 'within last 10 years':
     df = df[df['Procurment Year'] >= 2010]
     
-
 st.subheader('Total Cases: ')
 st.write(len(df))
-st.write(df)
-
-values = st.sidebar.slider('Select age range', 0, 200, (40, 80))
-# st.write(values)
-# if values >= min 'within last 10 years':
-#     df = df[df['Procurment Year'] >= 2010]
-# df = df[df['Age'] == values]
-# st.write(df)
+st.write(df) 

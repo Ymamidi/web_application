@@ -71,7 +71,7 @@ else:
     df = df[df['Ethnicity'].isin(E_SELECTED)]
 
 
-buttons = st.sidebar.radio("Collection year range", ("Default", "within last year", "within last 3 years", "within last 10 years"))
+buttons = st.sidebar.radio("Collection year range", ("Default", "within last year", "within last 3 years", "within last 5 years", "within last 10 years"))
 
 if buttons == 'Default':
     pass
@@ -83,6 +83,8 @@ if buttons == 'within last year':
 if buttons == 'within last 3 years':
     df = df[df['Procurment Year'] >= 2017]
     
+if buttons == 'within last 5 years':
+    df = df[df['Procurment Year'] >= 2015]
 
 if buttons == 'within last 10 years':
     df = df[df['Procurment Year'] >= 2010]
@@ -91,3 +93,10 @@ if buttons == 'within last 10 years':
 st.subheader('Total Cases: ')
 st.write(len(df))
 st.write(df)
+
+values = st.sidebar.slider('Select age range', 0, 200, (40, 80))
+# st.write(values)
+# if values >= min 'within last 10 years':
+#     df = df[df['Procurment Year'] >= 2010]
+# df = df[df['Age'] == values]
+# st.write(df)

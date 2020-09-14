@@ -110,10 +110,15 @@ else :
 st.subheader('Total Cases: ')
 st.write(len(df))
 st.write(df) 
+
+
+
+
 st.markdown(
     """
 <style>
 .sidebar .sidebar-content {
+    max-width: 100%!important;
     background-image: linear-gradient(#008000,#008000);
     color: white ;
 }
@@ -121,3 +126,23 @@ st.markdown(
 """, unsafe_allow_html=True,
 )
 
+
+st.markdown("""
+<style>
+body {
+    color: white;
+    background-color: #008000;
+    etc. 
+}
+</style>
+    """, unsafe_allow_html=True)
+
+
+# html_design = """
+# <div style="background-color:{};">
+# </div>
+# """
+# st.markdown(html_design.format(bgcolor2),unsafe_allow_html=True)
+
+
+# st.markdown("""<div style=background-image: linear-gradient(#008000,#008000);></div>""",unsafe_allow_html=True)

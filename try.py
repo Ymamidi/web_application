@@ -4,15 +4,7 @@ from datetime import datetime
 
 st.title("Tissue Biorepository")
 
-# IRD = 'C:\Personal Projects\Development\Web_app\web_application\iris_data.csv'
-# df = pd.read_csv(IRD, parse_dates=['Class'])
-# # st.write(df.loc[df['Class']=='versicolor'])
 df = pd.read_csv (r'C:\Personal Projects\Development\Web_app\web_application\Tissue_data.csv',  encoding= 'unicode_escape')
-# st.markdown("#### " +"What would you like to select?")
-
-# selected_metrics = st.selectbox(
-#     label="Choose...", options=['setosa','versicolor','virginica']
-# )
 
 #selecting category
 st.sidebar.title("Current searching")
@@ -27,9 +19,13 @@ df = (df.loc[df['Campus']== Campus_list])
 
 #slecting type of specimen
 st.sidebar.title("Select your details")
-Class_list = st.sidebar.selectbox('Specimen', df.Specimen.unique())
+Class_list = st.sidebar.multiselect('Specimen', df.Specimen.unique())
 # Col_list = st.sidebar.selectbox("C", df.C.unique())
-df = (df.loc[df['Specimen']== Class_list])
+if Class_list == []:
+    pass 
+else:
+    df = df[df['Specimen'].isin(Class_list)]
+# df = (df.loc[df['Specimen']== Class_list])
 
 #selecting type of tissue
 Tissue = df['Type of tissue'].unique()
@@ -46,15 +42,6 @@ if type_SELECTED == []:
     pass 
 else:
     df = df[df['Preperation'].isin(type_SELECTED)]
-
-
-
-# #selecting age range
-# st.title("Age")
-# P_type = df['Proc. Date'].unique()
-# type(df['Proc. Date'][1])
-
-# date_time_obj = datetime.strptime(df['Proc. Date'][1], '%m-%d-%y')
 
 
 #selecting sex
@@ -83,6 +70,23 @@ if E_SELECTED == []:
 else:
     df = df[df['Ethnicity'].isin(E_SELECTED)]
 
+
+buttons = st.sidebar.radio("Collection year range", ("Default", "within last year", "within last 3 years", "within last 10 years"))
+
+if buttons == 'Default':
+    pass
+
+if buttons == 'within last year':
+    df = df[df['Procurment Year'] >= 2019]
+    
+
+if buttons == 'within last 3 years':
+    df = df[df['Procurment Year'] >= 2017]
+    
+
+if buttons == 'within last 10 years':
+    df = df[df['Procurment Year'] >= 2010]
+    
 
 st.subheader('Total Cases: ')
 st.write(len(df))

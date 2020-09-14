@@ -127,15 +127,15 @@ st.markdown(
 )
 
 
-st.markdown("""
-<style>
-body {
-    color: white;
-    background-color: #008000;
-    etc. 
-}
-</style>
-    """, unsafe_allow_html=True)
+# st.markdown("""
+# <style>
+# body {
+#     color: black;
+#     background-color: #008000;
+#     etc. 
+# }
+# </style>
+#     """, unsafe_allow_html=True)
 
 
 # html_design = """

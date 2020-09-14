@@ -7,19 +7,19 @@ st.title("Tissue Biorepository")
 df = pd.read_csv (r'C:\Personal Projects\Development\Web_app\web_application\Tissue_data.csv',  encoding= 'unicode_escape')
 
 #selecting category
-st.sidebar.title("Current searching")
-Type_list = st.sidebar.selectbox('type', df.Type.unique())
+st.sidebar.subheader("Type")
+Type_list = st.sidebar.selectbox('', df.Type.unique())
 df = (df.loc[df['Type']== Type_list])
 
 
 #selecting campus
-st.sidebar.title("Campus selection")
-Campus_list = st.sidebar.selectbox('campus', df.Campus.unique())
+st.sidebar.subheader("Campus")
+Campus_list = st.sidebar.selectbox('', df.Campus.unique())
 df = (df.loc[df['Campus']== Campus_list])
 
 #slecting type of specimen
-st.sidebar.title("Select your details")
-Class_list = st.sidebar.multiselect('Specimen', df.Specimen.unique())
+st.sidebar.subheader("Specimen")
+Class_list = st.sidebar.multiselect('', df.Specimen.unique())
 # Col_list = st.sidebar.selectbox("C", df.C.unique())
 if Class_list == []:
     pass 
@@ -28,16 +28,18 @@ else:
 # df = (df.loc[df['Specimen']== Class_list])
 
 #selecting type of tissue
+st.sidebar.subheader("Select tissues")
 Tissue = df['Type of tissue'].unique()
-tissues_SELECTED = st.sidebar.multiselect('Select tissues', Tissue)
+tissues_SELECTED = st.sidebar.multiselect('', Tissue)
 if tissues_SELECTED == []:
     pass 
 else:
     df = df[df['Type of tissue'].isin(tissues_SELECTED)]
     
 #selecting preparation type
+st.sidebar.subheader("Select type")
 P_type = df['Preperation'].unique()
-type_SELECTED = st.sidebar.multiselect('Select type', P_type)
+type_SELECTED = st.sidebar.multiselect('', P_type)
 if type_SELECTED == []:
     pass 
 else:
@@ -45,21 +47,25 @@ else:
 
 
 #selecting sex
+st.sidebar.subheader("Select sex")
 S_type = df['Sex'].unique()
-Sex_SELECTED = st.sidebar.multiselect('Select sex', S_type)
+Sex_SELECTED = st.sidebar.multiselect('', S_type)
 if Sex_SELECTED == []:
     pass 
 else:
     df = df[df['Sex'].isin(Sex_SELECTED)]
 
 #selecting age range
-Min_age = st.sidebar.text_input('Input min age (years)', 0) 
-Max_age = st.sidebar.text_input('Input max age (years)', 200) 
+st.sidebar.subheader("Input Min age (years)")
+Min_age = st.sidebar.text_input('', 0) 
+st.sidebar.subheader("Input max age (years)")
+Max_age = st.sidebar.text_input('', 200) 
 df = df[(df['Age'] >= int(Min_age)) & (df['Age'] <= int(Max_age))]
 
 #selecting patient race
+st.sidebar.subheader("Select race")
 R_type = df['Race'].unique()
-Race_SELECTED = st.sidebar.multiselect('Select race', R_type)
+Race_SELECTED = st.sidebar.multiselect('', R_type)
 if Race_SELECTED == []:
     pass 
 else:
@@ -67,8 +73,9 @@ else:
 
 
 #selecting Ethnicity
+st.sidebar.subheader("Select Ethnicity")
 E_type = df['Ethnicity'].unique()
-E_SELECTED = st.sidebar.multiselect('Select Ethnicity', E_type)
+E_SELECTED = st.sidebar.multiselect('', E_type)
 if E_SELECTED == []:
     pass 
 else:
@@ -77,8 +84,8 @@ else:
 
 # buttons = st.sidebar.radio("Collection year range", ("Default", "within last year", "within last 3 years", "within last 5 years", "within last 10 years"))
 
-
-values = st.sidebar.slider('Select year range', 1990, 2020, (1990, 2020))
+st.sidebar.subheader("Select year range")
+values = st.sidebar.slider('', 1990, 2020, (1990, 2020))
 if (values[0] == 1990) & (values[1] == 2020):
     df = df
 else :
@@ -103,3 +110,14 @@ else :
 st.subheader('Total Cases: ')
 st.write(len(df))
 st.write(df) 
+st.markdown(
+    """
+<style>
+.sidebar .sidebar-content {
+    background-image: linear-gradient(#008000,#008000);
+    color: white ;
+}
+</style>
+""", unsafe_allow_html=True,
+)
+
